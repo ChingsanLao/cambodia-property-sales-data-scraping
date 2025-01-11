@@ -1,0 +1,31 @@
+[
+      {
+            "p_rel_url": "ChingsanLao/cambodia-property-sales-data-scraping/refs/heads/main/Data/Dim_Amenities.csv",
+            "p_sink_folder": "Dim_Amenities",     
+            "p_file_name": "Dim_Amenities.csv"
+      },
+
+      {
+            "p_rel_url": "ChingsanLao/cambodia-property-sales-data-scraping/refs/heads/main/Data/Dim_Location.csv",
+            "p_sink_folder": "Dim_Location",
+            "p_file_name": "Dim_Location.csv"
+      },
+
+      {
+            "p_rel_url": "ChingsanLao/cambodia-property-sales-data-scraping/refs/heads/main/Data/Dim_Property.csv",
+            "p_sink_folder": "Dim_Property",
+            "p_file_name": "Dim_Property.csv"
+      }, 
+
+      {
+            "p_rel_url": "ChingsanLao/cambodia-property-sales-data-scraping/refs/heads/main/Data/Dim_Time.csv",
+            "p_sink_folder": "Dim_Time",
+            "p_file_name": "Dim_Time.csv"
+      },
+
+      {
+            "p_rel_url": "ChingsanLao/cambodia-property-sales-data-scraping/refs/heads/main/Data/Fact_PropertyListings.csv",
+            "p_sink_folder": "Dim_PropertyListings",
+            "p_file_name": "Dim_Propertylistings.csv"
+      }
+]
