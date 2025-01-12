@@ -1,0 +1,3308 @@
+amenity_id,property_id,amenity_name
+amenity_1,property_1,Car Parking
+amenity_2,property_1,Commercial area
+amenity_3,property_1,Lift / Elevator
+amenity_4,property_1,On main road
+amenity_5,property_1,Swimming Pool
+amenity_1,property_2,Car Parking
+amenity_2,property_2,Commercial area
+amenity_6,property_2,Common Area
+amenity_7,property_2,Garden
+amenity_8,property_2,Gym/Fitness Center
+amenity_3,property_2,Lift / Elevator
+amenity_9,property_2,Non-Flooding
+amenity_4,property_2,On main road
+amenity_5,property_2,Swimming Pool
+amenity_10,property_2,Backup Electricity / Generator
+amenity_1,property_3,Car Parking
+amenity_7,property_3,Garden
+amenity_9,property_3,Non-Flooding
+amenity_5,property_3,Swimming Pool
+amenity_1,property_4,Car Parking
+amenity_2,property_4,Commercial area
+amenity_9,property_4,Non-Flooding
+amenity_1,property_5,Car Parking
+amenity_8,property_5,Gym/Fitness Center
+amenity_3,property_5,Lift / Elevator
+amenity_5,property_5,Swimming Pool
+amenity_1,property_6,Car Parking
+amenity_9,property_6,Non-Flooding
+amenity_5,property_6,Swimming Pool
+amenity_1,property_7,Car Parking
+amenity_2,property_7,Commercial area
+amenity_9,property_7,Non-Flooding
+amenity_1,property_8,Car Parking
+amenity_2,property_8,Commercial area
+amenity_9,property_8,Non-Flooding
+amenity_1,property_9,Car Parking
+amenity_2,property_9,Commercial area
+amenity_7,property_9,Garden
+amenity_8,property_9,Gym/Fitness Center
+amenity_3,property_9,Lift / Elevator
+amenity_9,property_9,Non-Flooding
+amenity_5,property_9,Swimming Pool
+amenity_10,property_9,Backup Electricity / Generator
+amenity_2,property_10,Commercial area
+amenity_8,property_10,Gym/Fitness Center
+amenity_3,property_10,Lift / Elevator
+amenity_9,property_10,Non-Flooding
+amenity_4,property_10,On main road
+amenity_5,property_10,Swimming Pool
+amenity_1,property_11,Car Parking
+amenity_2,property_11,Commercial area
+amenity_3,property_11,Lift / Elevator
+amenity_9,property_11,Non-Flooding
+amenity_5,property_11,Swimming Pool
+amenity_1,property_12,Car Parking
+amenity_9,property_12,Non-Flooding
+amenity_1,property_13,Car Parking
+amenity_2,property_13,Commercial area
+amenity_6,property_13,Common Area
+amenity_7,property_13,Garden
+amenity_8,property_13,Gym/Fitness Center
+amenity_3,property_13,Lift / Elevator
+amenity_9,property_13,Non-Flooding
+amenity_4,property_13,On main road
+amenity_11,property_13,Playground
+amenity_12,property_13,Sports Facilities
+amenity_5,property_13,Swimming Pool
+amenity_10,property_13,Backup Electricity / Generator
+amenity_1,property_14,Car Parking
+amenity_6,property_14,Common Area
+amenity_7,property_14,Garden
+amenity_8,property_14,Gym/Fitness Center
+amenity_13,property_14,Jacuzzi
+amenity_3,property_14,Lift / Elevator
+amenity_9,property_14,Non-Flooding
+amenity_11,property_14,Playground
+amenity_14,property_14,Sauna
+amenity_12,property_14,Sports Facilities
+amenity_5,property_14,Swimming Pool
+amenity_10,property_14,Backup Electricity / Generator
+amenity_2,property_15,Commercial area
+amenity_3,property_15,Lift / Elevator
+amenity_9,property_15,Non-Flooding
+amenity_4,property_15,On main road
+amenity_3,property_16,Lift / Elevator
+amenity_9,property_16,Non-Flooding
+amenity_4,property_16,On main road
+amenity_5,property_16,Swimming Pool
+amenity_10,property_16,Backup Electricity / Generator
+amenity_1,property_17,Car Parking
+amenity_7,property_17,Garden
+amenity_8,property_17,Gym/Fitness Center
+amenity_3,property_17,Lift / Elevator
+amenity_9,property_17,Non-Flooding
+amenity_11,property_17,Playground
+amenity_5,property_17,Swimming Pool
+amenity_10,property_17,Backup Electricity / Generator
+amenity_1,property_18,Car Parking
+amenity_2,property_18,Commercial area
+amenity_6,property_18,Common Area
+amenity_7,property_18,Garden
+amenity_8,property_18,Gym/Fitness Center
+amenity_3,property_18,Lift / Elevator
+amenity_9,property_18,Non-Flooding
+amenity_11,property_18,Playground
+amenity_12,property_18,Sports Facilities
+amenity_5,property_18,Swimming Pool
+amenity_10,property_18,Backup Electricity / Generator
+No_amenities,property_19,No amenities
+No_amenities,property_20,No amenities
+amenity_1,property_21,Car Parking
+No_amenities,property_22,No amenities
+No_amenities,property_23,No amenities
+No_amenities,property_24,No amenities
+amenity_1,property_25,Car Parking
+amenity_2,property_25,Commercial area
+amenity_8,property_25,Gym/Fitness Center
+amenity_3,property_25,Lift / Elevator
+amenity_9,property_25,Non-Flooding
+amenity_5,property_25,Swimming Pool
+amenity_1,property_26,Car Parking
+amenity_2,property_26,Commercial area
+amenity_8,property_26,Gym/Fitness Center
+amenity_3,property_26,Lift / Elevator
+amenity_9,property_26,Non-Flooding
+amenity_5,property_26,Swimming Pool
+No_amenities,property_27,No amenities
+amenity_1,property_28,Car Parking
+amenity_2,property_28,Commercial area
+amenity_8,property_28,Gym/Fitness Center
+amenity_3,property_28,Lift / Elevator
+amenity_9,property_28,Non-Flooding
+amenity_5,property_28,Swimming Pool
+amenity_10,property_28,Backup Electricity / Generator
+amenity_1,property_29,Car Parking
+amenity_2,property_29,Commercial area
+amenity_9,property_29,Non-Flooding
+amenity_1,property_30,Car Parking
+amenity_2,property_30,Commercial area
+amenity_9,property_30,Non-Flooding
+amenity_1,property_31,Car Parking
+amenity_2,property_31,Commercial area
+amenity_9,property_31,Non-Flooding
+amenity_1,property_32,Car Parking
+amenity_2,property_32,Commercial area
+amenity_9,property_32,Non-Flooding
+amenity_1,property_33,Car Parking
+amenity_2,property_33,Commercial area
+amenity_9,property_33,Non-Flooding
+amenity_1,property_34,Car Parking
+amenity_2,property_34,Commercial area
+amenity_8,property_34,Gym/Fitness Center
+amenity_3,property_34,Lift / Elevator
+amenity_9,property_34,Non-Flooding
+amenity_4,property_34,On main road
+amenity_5,property_34,Swimming Pool
+amenity_10,property_34,Backup Electricity / Generator
+amenity_1,property_35,Car Parking
+amenity_2,property_35,Commercial area
+amenity_8,property_35,Gym/Fitness Center
+amenity_3,property_35,Lift / Elevator
+amenity_9,property_35,Non-Flooding
+amenity_11,property_35,Playground
+amenity_5,property_35,Swimming Pool
+amenity_10,property_35,Backup Electricity / Generator
+amenity_1,property_36,Car Parking
+amenity_2,property_36,Commercial area
+amenity_8,property_36,Gym/Fitness Center
+amenity_3,property_36,Lift / Elevator
+amenity_9,property_36,Non-Flooding
+amenity_4,property_36,On main road
+amenity_5,property_36,Swimming Pool
+amenity_10,property_36,Backup Electricity / Generator
+amenity_1,property_37,Car Parking
+amenity_2,property_37,Commercial area
+amenity_8,property_37,Gym/Fitness Center
+amenity_3,property_37,Lift / Elevator
+amenity_9,property_37,Non-Flooding
+amenity_5,property_37,Swimming Pool
+No_amenities,property_38,No amenities
+No_amenities,property_39,No amenities
+No_amenities,property_40,No amenities
+No_amenities,property_41,No amenities
+amenity_3,property_42,Lift / Elevator
+amenity_9,property_42,Non-Flooding
+amenity_10,property_42,Backup Electricity / Generator
+amenity_1,property_43,Car Parking
+amenity_2,property_43,Commercial area
+amenity_9,property_43,Non-Flooding
+No_amenities,property_44,No amenities
+No_amenities,property_45,No amenities
+No_amenities,property_46,No amenities
+No_amenities,property_47,No amenities
+No_amenities,property_48,No amenities
+No_amenities,property_49,No amenities
+amenity_1,property_50,Car Parking
+amenity_2,property_50,Commercial area
+amenity_8,property_50,Gym/Fitness Center
+amenity_13,property_50,Jacuzzi
+amenity_3,property_50,Lift / Elevator
+amenity_9,property_50,Non-Flooding
+amenity_11,property_50,Playground
+amenity_14,property_50,Sauna
+amenity_5,property_50,Swimming Pool
+amenity_10,property_50,Backup Electricity / Generator
+No_amenities,property_51,No amenities
+No_amenities,property_52,No amenities
+No_amenities,property_53,No amenities
+No_amenities,property_54,No amenities
+amenity_1,property_55,Car Parking
+amenity_2,property_55,Commercial area
+amenity_7,property_55,Garden
+amenity_8,property_55,Gym/Fitness Center
+amenity_3,property_55,Lift / Elevator
+amenity_9,property_55,Non-Flooding
+amenity_5,property_55,Swimming Pool
+amenity_10,property_55,Backup Electricity / Generator
+amenity_1,property_56,Car Parking
+amenity_2,property_56,Commercial area
+amenity_9,property_56,Non-Flooding
+amenity_1,property_57,Car Parking
+amenity_2,property_57,Commercial area
+amenity_9,property_57,Non-Flooding
+No_amenities,property_58,No amenities
+No_amenities,property_59,No amenities
+amenity_1,property_60,Car Parking
+amenity_2,property_60,Commercial area
+amenity_9,property_60,Non-Flooding
+No_amenities,property_61,No amenities
+No_amenities,property_62,No amenities
+No_amenities,property_63,No amenities
+No_amenities,property_64,No amenities
+No_amenities,property_65,No amenities
+No_amenities,property_66,No amenities
+amenity_1,property_67,Car Parking
+amenity_2,property_67,Commercial area
+amenity_6,property_67,Common Area
+amenity_7,property_67,Garden
+amenity_8,property_67,Gym/Fitness Center
+amenity_13,property_67,Jacuzzi
+amenity_3,property_67,Lift / Elevator
+amenity_9,property_67,Non-Flooding
+amenity_4,property_67,On main road
+amenity_14,property_67,Sauna
+amenity_5,property_67,Swimming Pool
+amenity_10,property_67,Backup Electricity / Generator
+amenity_1,property_68,Car Parking
+amenity_8,property_68,Gym/Fitness Center
+amenity_3,property_68,Lift / Elevator
+amenity_9,property_68,Non-Flooding
+amenity_5,property_68,Swimming Pool
+amenity_10,property_68,Backup Electricity / Generator
+No_amenities,property_69,No amenities
+No_amenities,property_70,No amenities
+No_amenities,property_71,No amenities
+amenity_1,property_72,Car Parking
+amenity_8,property_72,Gym/Fitness Center
+amenity_3,property_72,Lift / Elevator
+amenity_5,property_72,Swimming Pool
+amenity_10,property_72,Backup Electricity / Generator
+amenity_1,property_73,Car Parking
+amenity_2,property_73,Commercial area
+amenity_9,property_73,Non-Flooding
+No_amenities,property_74,No amenities
+amenity_1,property_75,Car Parking
+amenity_2,property_75,Commercial area
+amenity_9,property_75,Non-Flooding
+No_amenities,property_76,No amenities
+No_amenities,property_77,No amenities
+amenity_1,property_78,Car Parking
+amenity_2,property_78,Commercial area
+amenity_8,property_78,Gym/Fitness Center
+amenity_3,property_78,Lift / Elevator
+amenity_9,property_78,Non-Flooding
+amenity_5,property_78,Swimming Pool
+amenity_1,property_79,Car Parking
+amenity_2,property_79,Commercial area
+amenity_8,property_79,Gym/Fitness Center
+amenity_3,property_79,Lift / Elevator
+amenity_9,property_79,Non-Flooding
+amenity_14,property_79,Sauna
+amenity_5,property_79,Swimming Pool
+amenity_10,property_79,Backup Electricity / Generator
+amenity_1,property_80,Car Parking
+amenity_8,property_80,Gym/Fitness Center
+amenity_3,property_80,Lift / Elevator
+amenity_9,property_80,Non-Flooding
+amenity_5,property_80,Swimming Pool
+amenity_10,property_80,Backup Electricity / Generator
+No_amenities,property_81,No amenities
+amenity_1,property_82,Car Parking
+amenity_2,property_82,Commercial area
+amenity_7,property_82,Garden
+amenity_8,property_82,Gym/Fitness Center
+amenity_3,property_82,Lift / Elevator
+amenity_9,property_82,Non-Flooding
+amenity_5,property_82,Swimming Pool
+amenity_1,property_83,Car Parking
+amenity_2,property_83,Commercial area
+amenity_9,property_83,Non-Flooding
+amenity_1,property_84,Car Parking
+amenity_2,property_84,Commercial area
+amenity_9,property_84,Non-Flooding
+No_amenities,property_85,No amenities
+No_amenities,property_86,No amenities
+No_amenities,property_87,No amenities
+No_amenities,property_88,No amenities
+amenity_1,property_89,Car Parking
+amenity_8,property_89,Gym/Fitness Center
+amenity_3,property_89,Lift / Elevator
+amenity_9,property_89,Non-Flooding
+amenity_5,property_89,Swimming Pool
+amenity_10,property_89,Backup Electricity / Generator
+No_amenities,property_90,No amenities
+No_amenities,property_91,No amenities
+No_amenities,property_92,No amenities
+No_amenities,property_93,No amenities
+amenity_1,property_94,Car Parking
+amenity_8,property_94,Gym/Fitness Center
+amenity_3,property_94,Lift / Elevator
+amenity_9,property_94,Non-Flooding
+amenity_5,property_94,Swimming Pool
+amenity_10,property_94,Backup Electricity / Generator
+No_amenities,property_95,No amenities
+amenity_1,property_96,Car Parking
+amenity_2,property_96,Commercial area
+amenity_7,property_96,Garden
+amenity_8,property_96,Gym/Fitness Center
+amenity_3,property_96,Lift / Elevator
+amenity_9,property_96,Non-Flooding
+amenity_11,property_96,Playground
+amenity_5,property_96,Swimming Pool
+amenity_10,property_96,Backup Electricity / Generator
+amenity_1,property_97,Car Parking
+amenity_2,property_97,Commercial area
+amenity_8,property_97,Gym/Fitness Center
+amenity_3,property_97,Lift / Elevator
+amenity_9,property_97,Non-Flooding
+amenity_4,property_97,On main road
+amenity_11,property_97,Playground
+amenity_5,property_97,Swimming Pool
+amenity_10,property_97,Backup Electricity / Generator
+No_amenities,property_98,No amenities
+No_amenities,property_99,No amenities
+amenity_1,property_100,Car Parking
+amenity_2,property_100,Commercial area
+amenity_8,property_100,Gym/Fitness Center
+amenity_3,property_100,Lift / Elevator
+amenity_5,property_100,Swimming Pool
+amenity_10,property_100,Backup Electricity / Generator
+No_amenities,property_101,No amenities
+No_amenities,property_102,No amenities
+No_amenities,property_103,No amenities
+No_amenities,property_104,No amenities
+amenity_1,property_105,Car Parking
+amenity_2,property_105,Commercial area
+amenity_7,property_105,Garden
+amenity_8,property_105,Gym/Fitness Center
+amenity_3,property_105,Lift / Elevator
+amenity_9,property_105,Non-Flooding
+amenity_11,property_105,Playground
+amenity_5,property_105,Swimming Pool
+amenity_10,property_105,Backup Electricity / Generator
+amenity_1,property_106,Car Parking
+amenity_2,property_106,Commercial area
+amenity_6,property_106,Common Area
+amenity_7,property_106,Garden
+amenity_8,property_106,Gym/Fitness Center
+amenity_3,property_106,Lift / Elevator
+amenity_9,property_106,Non-Flooding
+amenity_11,property_106,Playground
+amenity_14,property_106,Sauna
+amenity_12,property_106,Sports Facilities
+amenity_5,property_106,Swimming Pool
+amenity_10,property_106,Backup Electricity / Generator
+amenity_1,property_107,Car Parking
+amenity_2,property_107,Commercial area
+amenity_7,property_107,Garden
+amenity_8,property_107,Gym/Fitness Center
+amenity_3,property_107,Lift / Elevator
+amenity_9,property_107,Non-Flooding
+amenity_11,property_107,Playground
+amenity_5,property_107,Swimming Pool
+amenity_10,property_107,Backup Electricity / Generator
+No_amenities,property_108,No amenities
+amenity_1,property_109,Car Parking
+amenity_8,property_109,Gym/Fitness Center
+amenity_3,property_109,Lift / Elevator
+amenity_9,property_109,Non-Flooding
+amenity_5,property_109,Swimming Pool
+amenity_10,property_109,Backup Electricity / Generator
+amenity_1,property_110,Car Parking
+amenity_7,property_110,Garden
+amenity_9,property_110,Non-Flooding
+amenity_5,property_110,Swimming Pool
+amenity_10,property_110,Backup Electricity / Generator
+amenity_1,property_111,Car Parking
+amenity_2,property_111,Commercial area
+amenity_9,property_111,Non-Flooding
+amenity_2,property_112,Commercial area
+amenity_9,property_112,Non-Flooding
+amenity_1,property_113,Car Parking
+amenity_2,property_113,Commercial area
+amenity_9,property_113,Non-Flooding
+amenity_1,property_114,Car Parking
+amenity_2,property_114,Commercial area
+amenity_9,property_114,Non-Flooding
+No_amenities,property_115,No amenities
+No_amenities,property_116,No amenities
+amenity_1,property_117,Car Parking
+amenity_2,property_117,Commercial area
+amenity_3,property_117,Lift / Elevator
+amenity_9,property_117,Non-Flooding
+amenity_5,property_117,Swimming Pool
+amenity_10,property_117,Backup Electricity / Generator
+No_amenities,property_118,No amenities
+amenity_1,property_119,Car Parking
+amenity_8,property_119,Gym/Fitness Center
+amenity_3,property_119,Lift / Elevator
+amenity_9,property_119,Non-Flooding
+amenity_5,property_119,Swimming Pool
+amenity_10,property_119,Backup Electricity / Generator
+No_amenities,property_120,No amenities
+No_amenities,property_121,No amenities
+amenity_1,property_122,Car Parking
+amenity_9,property_122,Non-Flooding
+amenity_1,property_123,Car Parking
+amenity_2,property_123,Commercial area
+amenity_9,property_123,Non-Flooding
+amenity_1,property_124,Car Parking
+amenity_2,property_124,Commercial area
+amenity_9,property_124,Non-Flooding
+amenity_1,property_125,Car Parking
+amenity_2,property_125,Commercial area
+amenity_9,property_125,Non-Flooding
+amenity_1,property_126,Car Parking
+amenity_2,property_126,Commercial area
+amenity_9,property_126,Non-Flooding
+amenity_1,property_127,Car Parking
+amenity_2,property_127,Commercial area
+amenity_8,property_127,Gym/Fitness Center
+amenity_3,property_127,Lift / Elevator
+amenity_9,property_127,Non-Flooding
+amenity_5,property_127,Swimming Pool
+No_amenities,property_128,No amenities
+No_amenities,property_129,No amenities
+amenity_1,property_130,Car Parking
+amenity_2,property_130,Commercial area
+amenity_9,property_130,Non-Flooding
+amenity_4,property_130,On main road
+amenity_1,property_131,Car Parking
+amenity_2,property_131,Commercial area
+amenity_9,property_131,Non-Flooding
+No_amenities,property_132,No amenities
+amenity_1,property_133,Car Parking
+amenity_7,property_133,Garden
+amenity_8,property_133,Gym/Fitness Center
+amenity_3,property_133,Lift / Elevator
+amenity_11,property_133,Playground
+amenity_5,property_133,Swimming Pool
+amenity_10,property_133,Backup Electricity / Generator
+No_amenities,property_134,No amenities
+No_amenities,property_135,No amenities
+amenity_1,property_136,Car Parking
+amenity_7,property_136,Garden
+amenity_8,property_136,Gym/Fitness Center
+amenity_5,property_136,Swimming Pool
+amenity_10,property_136,Backup Electricity / Generator
+No_amenities,property_137,No amenities
+No_amenities,property_138,No amenities
+No_amenities,property_139,No amenities
+amenity_1,property_140,Car Parking
+amenity_2,property_140,Commercial area
+amenity_6,property_140,Common Area
+amenity_8,property_140,Gym/Fitness Center
+amenity_3,property_140,Lift / Elevator
+amenity_9,property_140,Non-Flooding
+amenity_12,property_140,Sports Facilities
+amenity_5,property_140,Swimming Pool
+amenity_10,property_140,Backup Electricity / Generator
+No_amenities,property_141,No amenities
+No_amenities,property_142,No amenities
+amenity_1,property_143,Car Parking
+amenity_9,property_143,Non-Flooding
+No_amenities,property_144,No amenities
+No_amenities,property_145,No amenities
+amenity_1,property_146,Car Parking
+amenity_2,property_146,Commercial area
+amenity_8,property_146,Gym/Fitness Center
+amenity_3,property_146,Lift / Elevator
+amenity_5,property_146,Swimming Pool
+amenity_10,property_146,Backup Electricity / Generator
+amenity_1,property_147,Car Parking
+amenity_2,property_147,Commercial area
+amenity_9,property_147,Non-Flooding
+amenity_1,property_148,Car Parking
+amenity_2,property_148,Commercial area
+amenity_8,property_148,Gym/Fitness Center
+amenity_3,property_148,Lift / Elevator
+amenity_9,property_148,Non-Flooding
+amenity_14,property_148,Sauna
+amenity_5,property_148,Swimming Pool
+amenity_1,property_149,Car Parking
+amenity_2,property_149,Commercial area
+amenity_3,property_149,Lift / Elevator
+amenity_9,property_149,Non-Flooding
+amenity_1,property_150,Car Parking
+amenity_2,property_150,Commercial area
+amenity_6,property_150,Common Area
+amenity_8,property_150,Gym/Fitness Center
+amenity_13,property_150,Jacuzzi
+amenity_3,property_150,Lift / Elevator
+amenity_9,property_150,Non-Flooding
+amenity_4,property_150,On main road
+amenity_11,property_150,Playground
+amenity_14,property_150,Sauna
+amenity_12,property_150,Sports Facilities
+amenity_5,property_150,Swimming Pool
+amenity_10,property_150,Backup Electricity / Generator
+amenity_1,property_151,Car Parking
+amenity_2,property_151,Commercial area
+amenity_9,property_151,Non-Flooding
+amenity_2,property_152,Commercial area
+amenity_9,property_152,Non-Flooding
+No_amenities,property_153,No amenities
+amenity_1,property_154,Car Parking
+amenity_2,property_154,Commercial area
+amenity_8,property_154,Gym/Fitness Center
+amenity_3,property_154,Lift / Elevator
+amenity_9,property_154,Non-Flooding
+amenity_14,property_154,Sauna
+amenity_5,property_154,Swimming Pool
+amenity_10,property_154,Backup Electricity / Generator
+amenity_1,property_155,Car Parking
+amenity_2,property_155,Commercial area
+amenity_8,property_155,Gym/Fitness Center
+amenity_3,property_155,Lift / Elevator
+amenity_9,property_155,Non-Flooding
+amenity_14,property_155,Sauna
+amenity_5,property_155,Swimming Pool
+amenity_10,property_155,Backup Electricity / Generator
+amenity_1,property_156,Car Parking
+amenity_2,property_156,Commercial area
+amenity_8,property_156,Gym/Fitness Center
+amenity_3,property_156,Lift / Elevator
+amenity_9,property_156,Non-Flooding
+amenity_14,property_156,Sauna
+amenity_5,property_156,Swimming Pool
+amenity_10,property_156,Backup Electricity / Generator
+amenity_1,property_157,Car Parking
+amenity_2,property_157,Commercial area
+amenity_8,property_157,Gym/Fitness Center
+amenity_3,property_157,Lift / Elevator
+amenity_5,property_157,Swimming Pool
+amenity_10,property_157,Backup Electricity / Generator
+No_amenities,property_158,No amenities
+No_amenities,property_159,No amenities
+No_amenities,property_160,No amenities
+No_amenities,property_161,No amenities
+No_amenities,property_162,No amenities
+amenity_1,property_163,Car Parking
+amenity_2,property_163,Commercial area
+amenity_9,property_163,Non-Flooding
+amenity_1,property_164,Car Parking
+amenity_2,property_164,Commercial area
+amenity_9,property_164,Non-Flooding
+amenity_1,property_165,Car Parking
+amenity_2,property_165,Commercial area
+amenity_9,property_165,Non-Flooding
+amenity_1,property_166,Car Parking
+amenity_2,property_166,Commercial area
+amenity_9,property_166,Non-Flooding
+amenity_1,property_167,Car Parking
+amenity_2,property_167,Commercial area
+amenity_8,property_167,Gym/Fitness Center
+amenity_3,property_167,Lift / Elevator
+amenity_9,property_167,Non-Flooding
+amenity_5,property_167,Swimming Pool
+amenity_2,property_168,Commercial area
+amenity_9,property_168,Non-Flooding
+amenity_1,property_169,Car Parking
+amenity_2,property_169,Commercial area
+amenity_9,property_169,Non-Flooding
+amenity_2,property_170,Commercial area
+amenity_8,property_170,Gym/Fitness Center
+amenity_3,property_170,Lift / Elevator
+amenity_9,property_170,Non-Flooding
+amenity_5,property_170,Swimming Pool
+amenity_1,property_171,Car Parking
+amenity_2,property_171,Commercial area
+amenity_9,property_171,Non-Flooding
+amenity_1,property_172,Car Parking
+amenity_2,property_172,Commercial area
+amenity_9,property_172,Non-Flooding
+amenity_1,property_173,Car Parking
+amenity_2,property_173,Commercial area
+amenity_9,property_173,Non-Flooding
+amenity_1,property_174,Car Parking
+amenity_2,property_174,Commercial area
+amenity_6,property_174,Common Area
+amenity_7,property_174,Garden
+amenity_9,property_174,Non-Flooding
+amenity_5,property_174,Swimming Pool
+amenity_1,property_175,Car Parking
+amenity_2,property_175,Commercial area
+amenity_8,property_175,Gym/Fitness Center
+amenity_3,property_175,Lift / Elevator
+amenity_9,property_175,Non-Flooding
+amenity_5,property_175,Swimming Pool
+amenity_1,property_176,Car Parking
+amenity_2,property_176,Commercial area
+amenity_7,property_176,Garden
+amenity_8,property_176,Gym/Fitness Center
+amenity_3,property_176,Lift / Elevator
+amenity_9,property_176,Non-Flooding
+amenity_5,property_176,Swimming Pool
+No_amenities,property_177,No amenities
+amenity_1,property_178,Car Parking
+amenity_6,property_178,Common Area
+amenity_7,property_178,Garden
+amenity_8,property_178,Gym/Fitness Center
+amenity_3,property_178,Lift / Elevator
+amenity_9,property_178,Non-Flooding
+amenity_5,property_178,Swimming Pool
+amenity_1,property_179,Car Parking
+amenity_2,property_179,Commercial area
+amenity_9,property_179,Non-Flooding
+amenity_1,property_180,Car Parking
+amenity_2,property_180,Commercial area
+amenity_8,property_180,Gym/Fitness Center
+amenity_3,property_180,Lift / Elevator
+amenity_9,property_180,Non-Flooding
+amenity_5,property_180,Swimming Pool
+amenity_10,property_180,Backup Electricity / Generator
+amenity_1,property_181,Car Parking
+amenity_2,property_181,Commercial area
+amenity_9,property_181,Non-Flooding
+No_amenities,property_182,No amenities
+amenity_1,property_183,Car Parking
+amenity_2,property_183,Commercial area
+amenity_7,property_183,Garden
+amenity_9,property_183,Non-Flooding
+amenity_5,property_183,Swimming Pool
+amenity_1,property_184,Car Parking
+amenity_2,property_184,Commercial area
+amenity_8,property_184,Gym/Fitness Center
+amenity_3,property_184,Lift / Elevator
+amenity_9,property_184,Non-Flooding
+amenity_4,property_184,On main road
+amenity_5,property_184,Swimming Pool
+amenity_10,property_184,Backup Electricity / Generator
+No_amenities,property_185,No amenities
+No_amenities,property_186,No amenities
+No_amenities,property_187,No amenities
+No_amenities,property_188,No amenities
+amenity_1,property_189,Car Parking
+amenity_2,property_189,Commercial area
+amenity_9,property_189,Non-Flooding
+amenity_2,property_190,Commercial area
+amenity_3,property_190,Lift / Elevator
+amenity_9,property_190,Non-Flooding
+amenity_1,property_191,Car Parking
+amenity_8,property_191,Gym/Fitness Center
+amenity_3,property_191,Lift / Elevator
+amenity_4,property_191,On main road
+amenity_5,property_191,Swimming Pool
+amenity_1,property_192,Car Parking
+amenity_2,property_192,Commercial area
+amenity_8,property_192,Gym/Fitness Center
+amenity_3,property_192,Lift / Elevator
+amenity_9,property_192,Non-Flooding
+amenity_5,property_192,Swimming Pool
+amenity_1,property_193,Car Parking
+amenity_2,property_193,Commercial area
+amenity_8,property_193,Gym/Fitness Center
+amenity_3,property_193,Lift / Elevator
+amenity_9,property_193,Non-Flooding
+amenity_14,property_193,Sauna
+amenity_5,property_193,Swimming Pool
+amenity_10,property_193,Backup Electricity / Generator
+No_amenities,property_194,No amenities
+amenity_1,property_195,Car Parking
+amenity_2,property_195,Commercial area
+amenity_9,property_195,Non-Flooding
+amenity_1,property_196,Car Parking
+amenity_2,property_196,Commercial area
+amenity_8,property_196,Gym/Fitness Center
+amenity_3,property_196,Lift / Elevator
+amenity_9,property_196,Non-Flooding
+amenity_5,property_196,Swimming Pool
+amenity_10,property_196,Backup Electricity / Generator
+amenity_1,property_197,Car Parking
+amenity_2,property_197,Commercial area
+amenity_9,property_197,Non-Flooding
+amenity_2,property_198,Commercial area
+amenity_6,property_198,Common Area
+amenity_7,property_198,Garden
+amenity_8,property_198,Gym/Fitness Center
+amenity_9,property_198,Non-Flooding
+amenity_1,property_199,Car Parking
+amenity_2,property_199,Commercial area
+amenity_7,property_199,Garden
+amenity_9,property_199,Non-Flooding
+amenity_1,property_200,Car Parking
+amenity_2,property_200,Commercial area
+amenity_7,property_200,Garden
+amenity_9,property_200,Non-Flooding
+amenity_1,property_201,Car Parking
+amenity_2,property_201,Commercial area
+amenity_9,property_201,Non-Flooding
+amenity_1,property_202,Car Parking
+amenity_2,property_202,Commercial area
+amenity_9,property_202,Non-Flooding
+amenity_1,property_203,Car Parking
+amenity_2,property_203,Commercial area
+amenity_9,property_203,Non-Flooding
+amenity_1,property_204,Car Parking
+amenity_2,property_204,Commercial area
+amenity_9,property_204,Non-Flooding
+amenity_1,property_205,Car Parking
+amenity_2,property_205,Commercial area
+amenity_9,property_205,Non-Flooding
+No_amenities,property_206,No amenities
+amenity_1,property_207,Car Parking
+amenity_2,property_207,Commercial area
+amenity_9,property_207,Non-Flooding
+No_amenities,property_208,No amenities
+amenity_1,property_209,Car Parking
+amenity_2,property_209,Commercial area
+amenity_9,property_209,Non-Flooding
+amenity_1,property_210,Car Parking
+amenity_2,property_210,Commercial area
+amenity_9,property_210,Non-Flooding
+amenity_5,property_210,Swimming Pool
+No_amenities,property_211,No amenities
+No_amenities,property_212,No amenities
+No_amenities,property_213,No amenities
+No_amenities,property_214,No amenities
+No_amenities,property_215,No amenities
+amenity_2,property_216,Commercial area
+amenity_9,property_216,Non-Flooding
+No_amenities,property_217,No amenities
+amenity_1,property_218,Car Parking
+amenity_2,property_218,Commercial area
+amenity_7,property_218,Garden
+amenity_8,property_218,Gym/Fitness Center
+amenity_3,property_218,Lift / Elevator
+amenity_9,property_218,Non-Flooding
+amenity_5,property_218,Swimming Pool
+amenity_10,property_218,Backup Electricity / Generator
+amenity_2,property_219,Commercial area
+amenity_9,property_219,Non-Flooding
+amenity_1,property_220,Car Parking
+amenity_2,property_220,Commercial area
+amenity_9,property_220,Non-Flooding
+amenity_2,property_221,Commercial area
+amenity_9,property_221,Non-Flooding
+amenity_1,property_222,Car Parking
+amenity_2,property_222,Commercial area
+amenity_9,property_222,Non-Flooding
+amenity_1,property_223,Car Parking
+amenity_2,property_223,Commercial area
+amenity_9,property_223,Non-Flooding
+amenity_1,property_224,Car Parking
+amenity_2,property_224,Commercial area
+amenity_9,property_224,Non-Flooding
+amenity_1,property_225,Car Parking
+amenity_2,property_225,Commercial area
+amenity_9,property_225,Non-Flooding
+amenity_2,property_226,Commercial area
+amenity_9,property_226,Non-Flooding
+amenity_1,property_227,Car Parking
+amenity_2,property_227,Commercial area
+amenity_9,property_227,Non-Flooding
+amenity_1,property_228,Car Parking
+amenity_8,property_228,Gym/Fitness Center
+amenity_3,property_228,Lift / Elevator
+amenity_5,property_228,Swimming Pool
+amenity_1,property_229,Car Parking
+amenity_2,property_229,Commercial area
+amenity_9,property_229,Non-Flooding
+amenity_1,property_230,Car Parking
+amenity_2,property_230,Commercial area
+amenity_9,property_230,Non-Flooding
+No_amenities,property_231,No amenities
+amenity_1,property_232,Car Parking
+amenity_2,property_232,Commercial area
+amenity_9,property_232,Non-Flooding
+amenity_1,property_233,Car Parking
+amenity_2,property_233,Commercial area
+amenity_7,property_233,Garden
+amenity_9,property_233,Non-Flooding
+amenity_2,property_234,Commercial area
+amenity_9,property_234,Non-Flooding
+amenity_2,property_235,Commercial area
+amenity_9,property_235,Non-Flooding
+amenity_1,property_236,Car Parking
+amenity_2,property_236,Commercial area
+amenity_8,property_236,Gym/Fitness Center
+amenity_3,property_236,Lift / Elevator
+amenity_9,property_236,Non-Flooding
+amenity_5,property_236,Swimming Pool
+amenity_1,property_237,Car Parking
+amenity_2,property_237,Commercial area
+amenity_9,property_237,Non-Flooding
+amenity_1,property_238,Car Parking
+amenity_2,property_238,Commercial area
+amenity_9,property_238,Non-Flooding
+No_amenities,property_239,No amenities
+No_amenities,property_240,No amenities
+amenity_1,property_241,Car Parking
+amenity_2,property_241,Commercial area
+amenity_7,property_241,Garden
+amenity_9,property_241,Non-Flooding
+No_amenities,property_242,No amenities
+No_amenities,property_243,No amenities
+amenity_1,property_244,Car Parking
+amenity_2,property_244,Commercial area
+amenity_9,property_244,Non-Flooding
+amenity_1,property_245,Car Parking
+amenity_2,property_245,Commercial area
+amenity_9,property_245,Non-Flooding
+amenity_1,property_246,Car Parking
+amenity_2,property_246,Commercial area
+amenity_9,property_246,Non-Flooding
+amenity_1,property_247,Car Parking
+amenity_2,property_247,Commercial area
+amenity_8,property_247,Gym/Fitness Center
+amenity_3,property_247,Lift / Elevator
+amenity_9,property_247,Non-Flooding
+amenity_5,property_247,Swimming Pool
+amenity_10,property_247,Backup Electricity / Generator
+amenity_1,property_248,Car Parking
+amenity_2,property_248,Commercial area
+amenity_9,property_248,Non-Flooding
+amenity_1,property_249,Car Parking
+amenity_8,property_249,Gym/Fitness Center
+amenity_3,property_249,Lift / Elevator
+amenity_4,property_249,On main road
+amenity_5,property_249,Swimming Pool
+amenity_1,property_250,Car Parking
+amenity_2,property_250,Commercial area
+amenity_9,property_250,Non-Flooding
+amenity_1,property_251,Car Parking
+amenity_2,property_251,Commercial area
+amenity_8,property_251,Gym/Fitness Center
+amenity_3,property_251,Lift / Elevator
+amenity_9,property_251,Non-Flooding
+amenity_5,property_251,Swimming Pool
+amenity_1,property_252,Car Parking
+amenity_2,property_252,Commercial area
+amenity_8,property_252,Gym/Fitness Center
+amenity_3,property_252,Lift / Elevator
+amenity_9,property_252,Non-Flooding
+amenity_5,property_252,Swimming Pool
+amenity_1,property_253,Car Parking
+amenity_2,property_253,Commercial area
+amenity_3,property_253,Lift / Elevator
+amenity_9,property_253,Non-Flooding
+amenity_5,property_253,Swimming Pool
+No_amenities,property_254,No amenities
+amenity_1,property_255,Car Parking
+amenity_2,property_255,Commercial area
+amenity_6,property_255,Common Area
+amenity_7,property_255,Garden
+amenity_8,property_255,Gym/Fitness Center
+amenity_3,property_255,Lift / Elevator
+amenity_9,property_255,Non-Flooding
+amenity_10,property_255,Backup Electricity / Generator
+amenity_1,property_256,Car Parking
+amenity_2,property_256,Commercial area
+amenity_9,property_256,Non-Flooding
+No_amenities,property_257,No amenities
+No_amenities,property_258,No amenities
+amenity_1,property_259,Car Parking
+amenity_2,property_259,Commercial area
+amenity_9,property_259,Non-Flooding
+amenity_1,property_260,Car Parking
+amenity_2,property_260,Commercial area
+amenity_7,property_260,Garden
+amenity_8,property_260,Gym/Fitness Center
+amenity_3,property_260,Lift / Elevator
+amenity_9,property_260,Non-Flooding
+amenity_4,property_260,On main road
+amenity_5,property_260,Swimming Pool
+amenity_10,property_260,Backup Electricity / Generator
+amenity_1,property_261,Car Parking
+amenity_2,property_261,Commercial area
+amenity_9,property_261,Non-Flooding
+No_amenities,property_262,No amenities
+amenity_1,property_263,Car Parking
+amenity_2,property_263,Commercial area
+amenity_9,property_263,Non-Flooding
+amenity_9,property_264,Non-Flooding
+amenity_1,property_265,Car Parking
+amenity_2,property_265,Commercial area
+amenity_9,property_265,Non-Flooding
+amenity_1,property_266,Car Parking
+amenity_2,property_266,Commercial area
+amenity_9,property_266,Non-Flooding
+amenity_1,property_267,Car Parking
+amenity_2,property_267,Commercial area
+amenity_9,property_267,Non-Flooding
+amenity_1,property_268,Car Parking
+amenity_2,property_268,Commercial area
+amenity_7,property_268,Garden
+amenity_3,property_268,Lift / Elevator
+amenity_9,property_268,Non-Flooding
+amenity_4,property_268,On main road
+amenity_5,property_268,Swimming Pool
+amenity_10,property_268,Backup Electricity / Generator
+amenity_1,property_269,Car Parking
+amenity_2,property_269,Commercial area
+amenity_8,property_269,Gym/Fitness Center
+amenity_3,property_269,Lift / Elevator
+amenity_9,property_269,Non-Flooding
+amenity_5,property_269,Swimming Pool
+amenity_10,property_269,Backup Electricity / Generator
+amenity_1,property_270,Car Parking
+amenity_2,property_270,Commercial area
+amenity_9,property_270,Non-Flooding
+amenity_4,property_270,On main road
+amenity_1,property_271,Car Parking
+amenity_9,property_271,Non-Flooding
+amenity_1,property_272,Car Parking
+amenity_2,property_272,Commercial area
+amenity_8,property_272,Gym/Fitness Center
+amenity_3,property_272,Lift / Elevator
+amenity_9,property_272,Non-Flooding
+amenity_11,property_272,Playground
+amenity_5,property_272,Swimming Pool
+amenity_10,property_272,Backup Electricity / Generator
+amenity_1,property_273,Car Parking
+amenity_2,property_273,Commercial area
+amenity_1,property_274,Car Parking
+amenity_2,property_274,Commercial area
+amenity_8,property_274,Gym/Fitness Center
+amenity_3,property_274,Lift / Elevator
+amenity_9,property_274,Non-Flooding
+amenity_11,property_274,Playground
+amenity_5,property_274,Swimming Pool
+amenity_10,property_274,Backup Electricity / Generator
+No_amenities,property_275,No amenities
+amenity_1,property_276,Car Parking
+amenity_2,property_276,Commercial area
+amenity_9,property_276,Non-Flooding
+amenity_2,property_277,Commercial area
+amenity_9,property_277,Non-Flooding
+amenity_2,property_278,Commercial area
+amenity_9,property_278,Non-Flooding
+amenity_1,property_279,Car Parking
+amenity_2,property_279,Commercial area
+amenity_9,property_279,Non-Flooding
+amenity_1,property_280,Car Parking
+amenity_2,property_280,Commercial area
+amenity_9,property_280,Non-Flooding
+amenity_1,property_281,Car Parking
+amenity_2,property_281,Commercial area
+amenity_3,property_281,Lift / Elevator
+amenity_9,property_281,Non-Flooding
+amenity_1,property_282,Car Parking
+amenity_2,property_282,Commercial area
+amenity_9,property_282,Non-Flooding
+amenity_2,property_283,Commercial area
+amenity_1,property_284,Car Parking
+amenity_2,property_284,Commercial area
+amenity_7,property_284,Garden
+amenity_9,property_284,Non-Flooding
+amenity_1,property_285,Car Parking
+amenity_2,property_285,Commercial area
+amenity_9,property_285,Non-Flooding
+amenity_1,property_286,Car Parking
+amenity_2,property_286,Commercial area
+amenity_9,property_286,Non-Flooding
+amenity_1,property_287,Car Parking
+amenity_2,property_287,Commercial area
+amenity_9,property_287,Non-Flooding
+amenity_2,property_288,Commercial area
+amenity_9,property_288,Non-Flooding
+amenity_1,property_289,Car Parking
+amenity_2,property_289,Commercial area
+amenity_9,property_289,Non-Flooding
+amenity_1,property_290,Car Parking
+amenity_2,property_290,Commercial area
+amenity_7,property_290,Garden
+amenity_9,property_290,Non-Flooding
+amenity_1,property_291,Car Parking
+amenity_2,property_291,Commercial area
+amenity_9,property_291,Non-Flooding
+amenity_4,property_291,On main road
+amenity_1,property_292,Car Parking
+amenity_2,property_292,Commercial area
+amenity_9,property_292,Non-Flooding
+amenity_1,property_293,Car Parking
+amenity_2,property_293,Commercial area
+amenity_9,property_293,Non-Flooding
+amenity_1,property_294,Car Parking
+amenity_2,property_294,Commercial area
+amenity_9,property_294,Non-Flooding
+amenity_1,property_295,Car Parking
+amenity_9,property_295,Non-Flooding
+amenity_1,property_296,Car Parking
+amenity_9,property_296,Non-Flooding
+amenity_2,property_297,Commercial area
+amenity_9,property_297,Non-Flooding
+amenity_2,property_298,Commercial area
+amenity_9,property_298,Non-Flooding
+amenity_2,property_299,Commercial area
+amenity_9,property_299,Non-Flooding
+No_amenities,property_300,No amenities
+amenity_2,property_301,Commercial area
+amenity_9,property_301,Non-Flooding
+amenity_1,property_302,Car Parking
+amenity_9,property_302,Non-Flooding
+amenity_1,property_303,Car Parking
+amenity_2,property_303,Commercial area
+amenity_9,property_303,Non-Flooding
+amenity_1,property_304,Car Parking
+amenity_9,property_304,Non-Flooding
+amenity_1,property_305,Car Parking
+amenity_2,property_305,Commercial area
+amenity_9,property_305,Non-Flooding
+amenity_1,property_306,Car Parking
+amenity_2,property_306,Commercial area
+amenity_9,property_306,Non-Flooding
+amenity_1,property_307,Car Parking
+amenity_2,property_307,Commercial area
+amenity_9,property_307,Non-Flooding
+amenity_1,property_308,Car Parking
+amenity_2,property_308,Commercial area
+amenity_9,property_308,Non-Flooding
+amenity_1,property_309,Car Parking
+amenity_2,property_309,Commercial area
+amenity_9,property_309,Non-Flooding
+amenity_1,property_310,Car Parking
+amenity_2,property_310,Commercial area
+amenity_9,property_310,Non-Flooding
+amenity_2,property_311,Commercial area
+amenity_9,property_311,Non-Flooding
+amenity_1,property_312,Car Parking
+amenity_2,property_312,Commercial area
+amenity_3,property_312,Lift / Elevator
+amenity_9,property_312,Non-Flooding
+amenity_1,property_313,Car Parking
+amenity_2,property_313,Commercial area
+amenity_9,property_313,Non-Flooding
+amenity_1,property_314,Car Parking
+amenity_1,property_315,Car Parking
+amenity_2,property_315,Commercial area
+amenity_9,property_315,Non-Flooding
+amenity_2,property_316,Commercial area
+amenity_9,property_316,Non-Flooding
+amenity_1,property_317,Car Parking
+amenity_2,property_317,Commercial area
+amenity_7,property_317,Garden
+amenity_3,property_317,Lift / Elevator
+amenity_9,property_317,Non-Flooding
+amenity_10,property_317,Backup Electricity / Generator
+No_amenities,property_318,No amenities
+amenity_1,property_319,Car Parking
+amenity_2,property_319,Commercial area
+amenity_8,property_319,Gym/Fitness Center
+amenity_3,property_319,Lift / Elevator
+amenity_9,property_319,Non-Flooding
+amenity_5,property_319,Swimming Pool
+amenity_15,property_319,Tennis Court
+amenity_10,property_319,Backup Electricity / Generator
+amenity_1,property_320,Car Parking
+amenity_2,property_320,Commercial area
+amenity_9,property_320,Non-Flooding
+No_amenities,property_321,No amenities
+amenity_1,property_322,Car Parking
+amenity_2,property_322,Commercial area
+amenity_6,property_322,Common Area
+amenity_7,property_322,Garden
+amenity_8,property_322,Gym/Fitness Center
+amenity_3,property_322,Lift / Elevator
+amenity_9,property_322,Non-Flooding
+amenity_5,property_322,Swimming Pool
+amenity_10,property_322,Backup Electricity / Generator
+amenity_1,property_323,Car Parking
+amenity_2,property_323,Commercial area
+amenity_8,property_323,Gym/Fitness Center
+amenity_3,property_323,Lift / Elevator
+amenity_9,property_323,Non-Flooding
+amenity_5,property_323,Swimming Pool
+amenity_10,property_323,Backup Electricity / Generator
+amenity_1,property_324,Car Parking
+amenity_2,property_324,Commercial area
+amenity_9,property_324,Non-Flooding
+amenity_4,property_324,On main road
+amenity_1,property_325,Car Parking
+amenity_9,property_325,Non-Flooding
+amenity_1,property_326,Car Parking
+amenity_2,property_326,Commercial area
+amenity_9,property_326,Non-Flooding
+amenity_1,property_327,Car Parking
+amenity_2,property_327,Commercial area
+amenity_9,property_327,Non-Flooding
+amenity_1,property_328,Car Parking
+amenity_2,property_328,Commercial area
+amenity_9,property_328,Non-Flooding
+amenity_1,property_329,Car Parking
+amenity_2,property_329,Commercial area
+amenity_8,property_329,Gym/Fitness Center
+amenity_3,property_329,Lift / Elevator
+amenity_9,property_329,Non-Flooding
+amenity_5,property_329,Swimming Pool
+amenity_10,property_329,Backup Electricity / Generator
+amenity_1,property_330,Car Parking
+amenity_2,property_330,Commercial area
+amenity_9,property_330,Non-Flooding
+amenity_1,property_331,Car Parking
+amenity_2,property_331,Commercial area
+amenity_9,property_331,Non-Flooding
+amenity_1,property_332,Car Parking
+amenity_2,property_332,Commercial area
+amenity_3,property_332,Lift / Elevator
+amenity_9,property_332,Non-Flooding
+amenity_5,property_332,Swimming Pool
+amenity_10,property_332,Backup Electricity / Generator
+amenity_1,property_333,Car Parking
+amenity_2,property_333,Commercial area
+amenity_8,property_333,Gym/Fitness Center
+amenity_3,property_333,Lift / Elevator
+amenity_9,property_333,Non-Flooding
+amenity_4,property_333,On main road
+amenity_5,property_333,Swimming Pool
+amenity_10,property_333,Backup Electricity / Generator
+amenity_1,property_334,Car Parking
+amenity_2,property_334,Commercial area
+amenity_8,property_334,Gym/Fitness Center
+amenity_3,property_334,Lift / Elevator
+amenity_9,property_334,Non-Flooding
+amenity_4,property_334,On main road
+amenity_5,property_334,Swimming Pool
+amenity_10,property_334,Backup Electricity / Generator
+amenity_1,property_335,Car Parking
+amenity_2,property_335,Commercial area
+amenity_7,property_335,Garden
+amenity_8,property_335,Gym/Fitness Center
+amenity_3,property_335,Lift / Elevator
+amenity_9,property_335,Non-Flooding
+amenity_4,property_335,On main road
+amenity_11,property_335,Playground
+amenity_5,property_335,Swimming Pool
+amenity_10,property_335,Backup Electricity / Generator
+amenity_1,property_336,Car Parking
+amenity_2,property_336,Commercial area
+amenity_9,property_336,Non-Flooding
+amenity_1,property_337,Car Parking
+amenity_2,property_337,Commercial area
+amenity_9,property_337,Non-Flooding
+amenity_4,property_337,On main road
+amenity_1,property_338,Car Parking
+amenity_2,property_338,Commercial area
+amenity_9,property_338,Non-Flooding
+amenity_1,property_339,Car Parking
+amenity_2,property_339,Commercial area
+amenity_9,property_339,Non-Flooding
+No_amenities,property_340,No amenities
+amenity_1,property_341,Car Parking
+amenity_2,property_341,Commercial area
+amenity_9,property_341,Non-Flooding
+amenity_1,property_342,Car Parking
+amenity_2,property_342,Commercial area
+amenity_9,property_342,Non-Flooding
+amenity_1,property_343,Car Parking
+amenity_2,property_343,Commercial area
+amenity_9,property_343,Non-Flooding
+amenity_4,property_343,On main road
+amenity_1,property_344,Car Parking
+amenity_9,property_344,Non-Flooding
+No_amenities,property_345,No amenities
+No_amenities,property_346,No amenities
+amenity_1,property_347,Car Parking
+amenity_2,property_347,Commercial area
+amenity_9,property_347,Non-Flooding
+amenity_1,property_348,Car Parking
+amenity_2,property_348,Commercial area
+amenity_9,property_348,Non-Flooding
+amenity_1,property_349,Car Parking
+amenity_2,property_349,Commercial area
+amenity_6,property_349,Common Area
+amenity_9,property_349,Non-Flooding
+amenity_1,property_350,Car Parking
+amenity_6,property_350,Common Area
+amenity_9,property_350,Non-Flooding
+amenity_4,property_350,On main road
+amenity_1,property_351,Car Parking
+amenity_2,property_351,Commercial area
+amenity_9,property_351,Non-Flooding
+amenity_1,property_352,Car Parking
+amenity_2,property_352,Commercial area
+amenity_6,property_352,Common Area
+amenity_9,property_352,Non-Flooding
+No_amenities,property_353,No amenities
+No_amenities,property_354,No amenities
+amenity_1,property_355,Car Parking
+amenity_8,property_355,Gym/Fitness Center
+amenity_3,property_355,Lift / Elevator
+amenity_5,property_355,Swimming Pool
+amenity_1,property_356,Car Parking
+amenity_8,property_356,Gym/Fitness Center
+amenity_3,property_356,Lift / Elevator
+amenity_5,property_356,Swimming Pool
+amenity_1,property_357,Car Parking
+amenity_2,property_357,Commercial area
+amenity_8,property_357,Gym/Fitness Center
+amenity_3,property_357,Lift / Elevator
+amenity_9,property_357,Non-Flooding
+amenity_5,property_357,Swimming Pool
+amenity_10,property_357,Backup Electricity / Generator
+amenity_1,property_358,Car Parking
+amenity_2,property_358,Commercial area
+amenity_9,property_358,Non-Flooding
+amenity_4,property_358,On main road
+amenity_1,property_359,Car Parking
+amenity_2,property_359,Commercial area
+amenity_8,property_359,Gym/Fitness Center
+amenity_3,property_359,Lift / Elevator
+amenity_9,property_359,Non-Flooding
+amenity_5,property_359,Swimming Pool
+amenity_10,property_359,Backup Electricity / Generator
+amenity_1,property_360,Car Parking
+amenity_8,property_360,Gym/Fitness Center
+amenity_3,property_360,Lift / Elevator
+amenity_4,property_360,On main road
+amenity_5,property_360,Swimming Pool
+amenity_1,property_361,Car Parking
+amenity_6,property_361,Common Area
+amenity_7,property_361,Garden
+amenity_8,property_361,Gym/Fitness Center
+amenity_3,property_361,Lift / Elevator
+amenity_4,property_361,On main road
+amenity_11,property_361,Playground
+amenity_14,property_361,Sauna
+amenity_12,property_361,Sports Facilities
+amenity_5,property_361,Swimming Pool
+amenity_1,property_362,Car Parking
+amenity_2,property_362,Commercial area
+amenity_9,property_362,Non-Flooding
+amenity_4,property_362,On main road
+amenity_1,property_363,Car Parking
+amenity_2,property_363,Commercial area
+amenity_9,property_363,Non-Flooding
+amenity_1,property_364,Car Parking
+amenity_2,property_364,Commercial area
+amenity_9,property_364,Non-Flooding
+amenity_1,property_365,Car Parking
+amenity_7,property_365,Garden
+amenity_9,property_365,Non-Flooding
+amenity_4,property_365,On main road
+amenity_5,property_365,Swimming Pool
+amenity_1,property_366,Car Parking
+amenity_2,property_366,Commercial area
+amenity_9,property_366,Non-Flooding
+amenity_1,property_367,Car Parking
+amenity_2,property_367,Commercial area
+amenity_6,property_367,Common Area
+amenity_8,property_367,Gym/Fitness Center
+amenity_3,property_367,Lift / Elevator
+amenity_9,property_367,Non-Flooding
+amenity_4,property_367,On main road
+amenity_5,property_367,Swimming Pool
+amenity_1,property_368,Car Parking
+amenity_2,property_368,Commercial area
+amenity_9,property_368,Non-Flooding
+amenity_1,property_369,Car Parking
+amenity_2,property_369,Commercial area
+amenity_8,property_369,Gym/Fitness Center
+amenity_3,property_369,Lift / Elevator
+amenity_9,property_369,Non-Flooding
+amenity_5,property_369,Swimming Pool
+amenity_1,property_370,Car Parking
+amenity_2,property_370,Commercial area
+amenity_6,property_370,Common Area
+amenity_4,property_370,On main road
+amenity_1,property_371,Car Parking
+amenity_2,property_371,Commercial area
+amenity_6,property_371,Common Area
+amenity_9,property_371,Non-Flooding
+amenity_1,property_372,Car Parking
+amenity_2,property_372,Commercial area
+amenity_6,property_372,Common Area
+amenity_9,property_372,Non-Flooding
+No_amenities,property_373,No amenities
+amenity_1,property_374,Car Parking
+amenity_2,property_374,Commercial area
+amenity_3,property_374,Lift / Elevator
+amenity_9,property_374,Non-Flooding
+amenity_5,property_374,Swimming Pool
+amenity_1,property_375,Car Parking
+amenity_7,property_375,Garden
+amenity_8,property_375,Gym/Fitness Center
+amenity_3,property_375,Lift / Elevator
+amenity_4,property_375,On main road
+amenity_5,property_375,Swimming Pool
+amenity_1,property_376,Car Parking
+amenity_9,property_376,Non-Flooding
+amenity_1,property_377,Car Parking
+amenity_2,property_377,Commercial area
+amenity_6,property_377,Common Area
+amenity_8,property_377,Gym/Fitness Center
+amenity_9,property_377,Non-Flooding
+amenity_4,property_377,On main road
+amenity_5,property_377,Swimming Pool
+amenity_10,property_377,Backup Electricity / Generator
+amenity_1,property_378,Car Parking
+amenity_2,property_378,Commercial area
+amenity_6,property_378,Common Area
+amenity_9,property_378,Non-Flooding
+amenity_1,property_379,Car Parking
+amenity_2,property_379,Commercial area
+amenity_6,property_379,Common Area
+amenity_9,property_379,Non-Flooding
+amenity_4,property_379,On main road
+amenity_1,property_380,Car Parking
+amenity_2,property_380,Commercial area
+amenity_9,property_380,Non-Flooding
+amenity_1,property_381,Car Parking
+amenity_2,property_381,Commercial area
+amenity_6,property_381,Common Area
+amenity_8,property_381,Gym/Fitness Center
+amenity_3,property_381,Lift / Elevator
+amenity_9,property_381,Non-Flooding
+amenity_4,property_381,On main road
+amenity_5,property_381,Swimming Pool
+amenity_10,property_381,Backup Electricity / Generator
+amenity_1,property_382,Car Parking
+amenity_2,property_382,Commercial area
+amenity_9,property_382,Non-Flooding
+amenity_4,property_382,On main road
+amenity_1,property_383,Car Parking
+amenity_6,property_383,Common Area
+amenity_9,property_383,Non-Flooding
+amenity_4,property_383,On main road
+amenity_1,property_384,Car Parking
+amenity_6,property_384,Common Area
+amenity_8,property_384,Gym/Fitness Center
+amenity_3,property_384,Lift / Elevator
+amenity_9,property_384,Non-Flooding
+amenity_5,property_384,Swimming Pool
+amenity_1,property_385,Car Parking
+amenity_2,property_385,Commercial area
+amenity_9,property_385,Non-Flooding
+amenity_4,property_385,On main road
+amenity_1,property_386,Car Parking
+amenity_2,property_386,Commercial area
+amenity_8,property_386,Gym/Fitness Center
+amenity_3,property_386,Lift / Elevator
+amenity_9,property_386,Non-Flooding
+amenity_5,property_386,Swimming Pool
+amenity_10,property_386,Backup Electricity / Generator
+amenity_1,property_387,Car Parking
+amenity_2,property_387,Commercial area
+amenity_9,property_387,Non-Flooding
+amenity_1,property_388,Car Parking
+amenity_2,property_388,Commercial area
+amenity_9,property_388,Non-Flooding
+No_amenities,property_389,No amenities
+amenity_1,property_390,Car Parking
+amenity_2,property_390,Commercial area
+amenity_6,property_390,Common Area
+amenity_8,property_390,Gym/Fitness Center
+amenity_3,property_390,Lift / Elevator
+amenity_9,property_390,Non-Flooding
+amenity_4,property_390,On main road
+amenity_5,property_390,Swimming Pool
+amenity_1,property_391,Car Parking
+amenity_2,property_391,Commercial area
+amenity_9,property_391,Non-Flooding
+amenity_1,property_392,Car Parking
+amenity_2,property_392,Commercial area
+amenity_9,property_392,Non-Flooding
+amenity_1,property_393,Car Parking
+amenity_2,property_393,Commercial area
+amenity_6,property_393,Common Area
+amenity_9,property_393,Non-Flooding
+amenity_1,property_394,Car Parking
+amenity_9,property_394,Non-Flooding
+amenity_1,property_395,Car Parking
+amenity_2,property_395,Commercial area
+amenity_9,property_395,Non-Flooding
+amenity_1,property_396,Car Parking
+amenity_9,property_396,Non-Flooding
+amenity_1,property_397,Car Parking
+amenity_2,property_397,Commercial area
+amenity_3,property_397,Lift / Elevator
+amenity_9,property_397,Non-Flooding
+amenity_1,property_398,Car Parking
+amenity_9,property_398,Non-Flooding
+amenity_1,property_399,Car Parking
+amenity_6,property_399,Common Area
+amenity_9,property_399,Non-Flooding
+amenity_1,property_400,Car Parking
+amenity_2,property_400,Commercial area
+amenity_8,property_400,Gym/Fitness Center
+amenity_3,property_400,Lift / Elevator
+amenity_9,property_400,Non-Flooding
+amenity_5,property_400,Swimming Pool
+amenity_10,property_400,Backup Electricity / Generator
+amenity_1,property_401,Car Parking
+amenity_2,property_401,Commercial area
+amenity_9,property_401,Non-Flooding
+amenity_1,property_402,Car Parking
+amenity_2,property_402,Commercial area
+amenity_9,property_402,Non-Flooding
+amenity_1,property_403,Car Parking
+amenity_6,property_403,Common Area
+amenity_7,property_403,Garden
+amenity_8,property_403,Gym/Fitness Center
+amenity_3,property_403,Lift / Elevator
+amenity_9,property_403,Non-Flooding
+amenity_5,property_403,Swimming Pool
+amenity_10,property_403,Backup Electricity / Generator
+amenity_1,property_404,Car Parking
+amenity_6,property_404,Common Area
+amenity_8,property_404,Gym/Fitness Center
+amenity_3,property_404,Lift / Elevator
+amenity_9,property_404,Non-Flooding
+amenity_5,property_404,Swimming Pool
+amenity_1,property_405,Car Parking
+amenity_2,property_405,Commercial area
+amenity_9,property_405,Non-Flooding
+amenity_1,property_406,Car Parking
+amenity_6,property_406,Common Area
+amenity_9,property_406,Non-Flooding
+No_amenities,property_407,No amenities
+amenity_1,property_408,Car Parking
+amenity_2,property_408,Commercial area
+amenity_3,property_408,Lift / Elevator
+amenity_9,property_408,Non-Flooding
+No_amenities,property_409,No amenities
+amenity_1,property_410,Car Parking
+amenity_2,property_410,Commercial area
+amenity_8,property_410,Gym/Fitness Center
+amenity_3,property_410,Lift / Elevator
+amenity_9,property_410,Non-Flooding
+amenity_5,property_410,Swimming Pool
+amenity_10,property_410,Backup Electricity / Generator
+amenity_1,property_411,Car Parking
+amenity_6,property_411,Common Area
+amenity_8,property_411,Gym/Fitness Center
+amenity_3,property_411,Lift / Elevator
+amenity_9,property_411,Non-Flooding
+amenity_5,property_411,Swimming Pool
+amenity_1,property_412,Car Parking
+amenity_6,property_412,Common Area
+amenity_8,property_412,Gym/Fitness Center
+amenity_3,property_412,Lift / Elevator
+amenity_9,property_412,Non-Flooding
+amenity_5,property_412,Swimming Pool
+amenity_1,property_413,Car Parking
+amenity_2,property_413,Commercial area
+amenity_8,property_413,Gym/Fitness Center
+amenity_3,property_413,Lift / Elevator
+amenity_9,property_413,Non-Flooding
+amenity_4,property_413,On main road
+amenity_14,property_413,Sauna
+amenity_5,property_413,Swimming Pool
+amenity_10,property_413,Backup Electricity / Generator
+amenity_1,property_414,Car Parking
+amenity_2,property_414,Commercial area
+amenity_9,property_414,Non-Flooding
+amenity_1,property_415,Car Parking
+amenity_6,property_415,Common Area
+amenity_9,property_415,Non-Flooding
+amenity_1,property_416,Car Parking
+amenity_2,property_416,Commercial area
+amenity_9,property_416,Non-Flooding
+amenity_1,property_417,Car Parking
+amenity_2,property_417,Commercial area
+amenity_9,property_417,Non-Flooding
+amenity_1,property_418,Car Parking
+amenity_2,property_418,Commercial area
+amenity_9,property_418,Non-Flooding
+No_amenities,property_419,No amenities
+amenity_1,property_420,Car Parking
+amenity_2,property_420,Commercial area
+amenity_6,property_420,Common Area
+amenity_7,property_420,Garden
+amenity_8,property_420,Gym/Fitness Center
+amenity_3,property_420,Lift / Elevator
+amenity_9,property_420,Non-Flooding
+amenity_4,property_420,On main road
+amenity_5,property_420,Swimming Pool
+amenity_10,property_420,Backup Electricity / Generator
+amenity_1,property_421,Car Parking
+amenity_9,property_421,Non-Flooding
+amenity_1,property_422,Car Parking
+amenity_2,property_422,Commercial area
+amenity_9,property_422,Non-Flooding
+amenity_4,property_422,On main road
+amenity_1,property_423,Car Parking
+amenity_2,property_423,Commercial area
+amenity_9,property_423,Non-Flooding
+amenity_1,property_424,Car Parking
+amenity_2,property_424,Commercial area
+amenity_6,property_424,Common Area
+amenity_8,property_424,Gym/Fitness Center
+amenity_3,property_424,Lift / Elevator
+amenity_9,property_424,Non-Flooding
+amenity_4,property_424,On main road
+amenity_14,property_424,Sauna
+amenity_5,property_424,Swimming Pool
+amenity_10,property_424,Backup Electricity / Generator
+amenity_1,property_425,Car Parking
+amenity_9,property_425,Non-Flooding
+amenity_1,property_426,Car Parking
+amenity_2,property_426,Commercial area
+amenity_9,property_426,Non-Flooding
+amenity_1,property_427,Car Parking
+amenity_3,property_427,Lift / Elevator
+amenity_4,property_427,On main road
+amenity_5,property_427,Swimming Pool
+amenity_1,property_428,Car Parking
+amenity_3,property_428,Lift / Elevator
+amenity_4,property_428,On main road
+amenity_5,property_428,Swimming Pool
+No_amenities,property_429,No amenities
+amenity_1,property_430,Car Parking
+amenity_8,property_430,Gym/Fitness Center
+amenity_3,property_430,Lift / Elevator
+amenity_4,property_430,On main road
+amenity_5,property_430,Swimming Pool
+No_amenities,property_431,No amenities
+No_amenities,property_432,No amenities
+amenity_1,property_433,Car Parking
+amenity_3,property_433,Lift / Elevator
+amenity_5,property_433,Swimming Pool
+amenity_9,property_434,Non-Flooding
+amenity_1,property_435,Car Parking
+amenity_9,property_435,Non-Flooding
+amenity_1,property_436,Car Parking
+amenity_2,property_436,Commercial area
+amenity_9,property_436,Non-Flooding
+amenity_1,property_437,Car Parking
+amenity_2,property_437,Commercial area
+amenity_9,property_437,Non-Flooding
+amenity_1,property_438,Car Parking
+amenity_9,property_438,Non-Flooding
+amenity_1,property_439,Car Parking
+amenity_2,property_439,Commercial area
+amenity_3,property_439,Lift / Elevator
+amenity_9,property_439,Non-Flooding
+amenity_5,property_439,Swimming Pool
+amenity_10,property_439,Backup Electricity / Generator
+amenity_1,property_440,Car Parking
+amenity_2,property_440,Commercial area
+amenity_6,property_440,Common Area
+amenity_7,property_440,Garden
+amenity_8,property_440,Gym/Fitness Center
+amenity_3,property_440,Lift / Elevator
+amenity_9,property_440,Non-Flooding
+amenity_4,property_440,On main road
+amenity_5,property_440,Swimming Pool
+amenity_10,property_440,Backup Electricity / Generator
+amenity_1,property_441,Car Parking
+amenity_9,property_441,Non-Flooding
+No_amenities,property_442,No amenities
+amenity_1,property_443,Car Parking
+amenity_2,property_443,Commercial area
+amenity_6,property_443,Common Area
+amenity_7,property_443,Garden
+amenity_8,property_443,Gym/Fitness Center
+amenity_3,property_443,Lift / Elevator
+amenity_9,property_443,Non-Flooding
+amenity_4,property_443,On main road
+amenity_5,property_443,Swimming Pool
+amenity_10,property_443,Backup Electricity / Generator
+amenity_1,property_444,Car Parking
+amenity_2,property_444,Commercial area
+amenity_6,property_444,Common Area
+amenity_7,property_444,Garden
+amenity_8,property_444,Gym/Fitness Center
+amenity_3,property_444,Lift / Elevator
+amenity_9,property_444,Non-Flooding
+amenity_4,property_444,On main road
+amenity_5,property_444,Swimming Pool
+amenity_10,property_444,Backup Electricity / Generator
+amenity_1,property_445,Car Parking
+amenity_2,property_445,Commercial area
+amenity_6,property_445,Common Area
+amenity_7,property_445,Garden
+amenity_8,property_445,Gym/Fitness Center
+amenity_3,property_445,Lift / Elevator
+amenity_9,property_445,Non-Flooding
+amenity_4,property_445,On main road
+amenity_5,property_445,Swimming Pool
+amenity_10,property_445,Backup Electricity / Generator
+amenity_1,property_446,Car Parking
+amenity_6,property_446,Common Area
+amenity_8,property_446,Gym/Fitness Center
+amenity_3,property_446,Lift / Elevator
+amenity_9,property_446,Non-Flooding
+amenity_5,property_446,Swimming Pool
+amenity_1,property_447,Car Parking
+amenity_9,property_447,Non-Flooding
+amenity_1,property_448,Car Parking
+amenity_8,property_448,Gym/Fitness Center
+amenity_3,property_448,Lift / Elevator
+amenity_4,property_448,On main road
+amenity_5,property_448,Swimming Pool
+amenity_1,property_449,Car Parking
+amenity_2,property_449,Commercial area
+amenity_8,property_449,Gym/Fitness Center
+amenity_3,property_449,Lift / Elevator
+amenity_9,property_449,Non-Flooding
+amenity_5,property_449,Swimming Pool
+amenity_10,property_449,Backup Electricity / Generator
+No_amenities,property_450,No amenities
+No_amenities,property_451,No amenities
+amenity_2,property_452,Commercial area
+amenity_9,property_452,Non-Flooding
+amenity_1,property_453,Car Parking
+amenity_2,property_453,Commercial area
+amenity_9,property_453,Non-Flooding
+amenity_1,property_454,Car Parking
+amenity_2,property_454,Commercial area
+amenity_9,property_454,Non-Flooding
+amenity_1,property_455,Car Parking
+amenity_2,property_455,Commercial area
+amenity_9,property_455,Non-Flooding
+amenity_1,property_456,Car Parking
+amenity_2,property_456,Commercial area
+amenity_9,property_456,Non-Flooding
+amenity_1,property_457,Car Parking
+amenity_2,property_457,Commercial area
+amenity_9,property_457,Non-Flooding
+amenity_1,property_458,Car Parking
+amenity_2,property_458,Commercial area
+amenity_9,property_458,Non-Flooding
+amenity_1,property_459,Car Parking
+amenity_2,property_459,Commercial area
+amenity_9,property_459,Non-Flooding
+amenity_1,property_460,Car Parking
+amenity_2,property_460,Commercial area
+amenity_9,property_460,Non-Flooding
+amenity_1,property_461,Car Parking
+amenity_2,property_461,Commercial area
+amenity_9,property_461,Non-Flooding
+amenity_5,property_461,Swimming Pool
+amenity_1,property_462,Car Parking
+amenity_2,property_462,Commercial area
+amenity_9,property_462,Non-Flooding
+amenity_1,property_463,Car Parking
+amenity_2,property_463,Commercial area
+amenity_9,property_463,Non-Flooding
+amenity_1,property_464,Car Parking
+amenity_9,property_464,Non-Flooding
+amenity_1,property_465,Car Parking
+amenity_2,property_465,Commercial area
+amenity_9,property_465,Non-Flooding
+amenity_1,property_466,Car Parking
+amenity_2,property_466,Commercial area
+amenity_9,property_466,Non-Flooding
+amenity_1,property_467,Car Parking
+amenity_2,property_467,Commercial area
+amenity_9,property_467,Non-Flooding
+amenity_1,property_468,Car Parking
+amenity_2,property_468,Commercial area
+amenity_9,property_468,Non-Flooding
+amenity_1,property_469,Car Parking
+amenity_2,property_469,Commercial area
+amenity_9,property_469,Non-Flooding
+amenity_1,property_470,Car Parking
+amenity_2,property_470,Commercial area
+amenity_9,property_470,Non-Flooding
+amenity_1,property_471,Car Parking
+amenity_2,property_471,Commercial area
+amenity_9,property_471,Non-Flooding
+amenity_1,property_472,Car Parking
+amenity_2,property_472,Commercial area
+amenity_8,property_472,Gym/Fitness Center
+amenity_3,property_472,Lift / Elevator
+amenity_9,property_472,Non-Flooding
+amenity_5,property_472,Swimming Pool
+amenity_10,property_472,Backup Electricity / Generator
+No_amenities,property_473,No amenities
+amenity_1,property_474,Car Parking
+amenity_2,property_474,Commercial area
+amenity_9,property_474,Non-Flooding
+amenity_1,property_475,Car Parking
+amenity_2,property_475,Commercial area
+amenity_6,property_475,Common Area
+amenity_7,property_475,Garden
+amenity_9,property_475,Non-Flooding
+No_amenities,property_476,No amenities
+amenity_1,property_477,Car Parking
+amenity_2,property_477,Commercial area
+amenity_9,property_477,Non-Flooding
+amenity_1,property_478,Car Parking
+amenity_2,property_478,Commercial area
+amenity_8,property_478,Gym/Fitness Center
+amenity_3,property_478,Lift / Elevator
+amenity_9,property_478,Non-Flooding
+amenity_5,property_478,Swimming Pool
+No_amenities,property_479,No amenities
+amenity_1,property_480,Car Parking
+amenity_2,property_480,Commercial area
+amenity_9,property_480,Non-Flooding
+amenity_2,property_481,Commercial area
+amenity_9,property_481,Non-Flooding
+amenity_1,property_482,Car Parking
+amenity_2,property_482,Commercial area
+amenity_7,property_482,Garden
+amenity_8,property_482,Gym/Fitness Center
+amenity_3,property_482,Lift / Elevator
+amenity_9,property_482,Non-Flooding
+amenity_5,property_482,Swimming Pool
+amenity_10,property_482,Backup Electricity / Generator
+amenity_1,property_483,Car Parking
+amenity_2,property_483,Commercial area
+amenity_8,property_483,Gym/Fitness Center
+amenity_3,property_483,Lift / Elevator
+amenity_9,property_483,Non-Flooding
+amenity_5,property_483,Swimming Pool
+amenity_10,property_483,Backup Electricity / Generator
+amenity_1,property_484,Car Parking
+amenity_2,property_484,Commercial area
+amenity_8,property_484,Gym/Fitness Center
+amenity_3,property_484,Lift / Elevator
+amenity_9,property_484,Non-Flooding
+amenity_5,property_484,Swimming Pool
+amenity_10,property_484,Backup Electricity / Generator
+No_amenities,property_485,No amenities
+amenity_5,property_486,Swimming Pool
+amenity_1,property_487,Car Parking
+amenity_2,property_487,Commercial area
+amenity_9,property_487,Non-Flooding
+amenity_1,property_488,Car Parking
+amenity_7,property_488,Garden
+amenity_8,property_488,Gym/Fitness Center
+amenity_4,property_488,On main road
+amenity_12,property_488,Sports Facilities
+amenity_5,property_488,Swimming Pool
+No_amenities,property_489,No amenities
+amenity_1,property_490,Car Parking
+amenity_2,property_490,Commercial area
+amenity_8,property_490,Gym/Fitness Center
+amenity_9,property_490,Non-Flooding
+amenity_4,property_490,On main road
+amenity_1,property_491,Car Parking
+amenity_2,property_491,Commercial area
+amenity_6,property_491,Common Area
+amenity_9,property_491,Non-Flooding
+amenity_1,property_492,Car Parking
+amenity_5,property_492,Swimming Pool
+No_amenities,property_493,No amenities
+amenity_1,property_494,Car Parking
+amenity_2,property_494,Commercial area
+amenity_6,property_494,Common Area
+amenity_7,property_494,Garden
+amenity_8,property_494,Gym/Fitness Center
+amenity_3,property_494,Lift / Elevator
+amenity_9,property_494,Non-Flooding
+amenity_5,property_494,Swimming Pool
+amenity_1,property_495,Car Parking
+amenity_2,property_495,Commercial area
+amenity_8,property_495,Gym/Fitness Center
+amenity_3,property_495,Lift / Elevator
+amenity_9,property_495,Non-Flooding
+amenity_5,property_495,Swimming Pool
+amenity_10,property_495,Backup Electricity / Generator
+amenity_1,property_496,Car Parking
+amenity_2,property_496,Commercial area
+amenity_3,property_496,Lift / Elevator
+amenity_9,property_496,Non-Flooding
+amenity_5,property_496,Swimming Pool
+amenity_1,property_497,Car Parking
+amenity_1,property_498,Car Parking
+amenity_2,property_498,Commercial area
+amenity_9,property_498,Non-Flooding
+amenity_1,property_499,Car Parking
+No_amenities,property_500,No amenities
+amenity_1,property_501,Car Parking
+amenity_2,property_501,Commercial area
+amenity_9,property_501,Non-Flooding
+amenity_4,property_501,On main road
+amenity_2,property_502,Commercial area
+No_amenities,property_503,No amenities
+amenity_1,property_504,Car Parking
+amenity_2,property_504,Commercial area
+amenity_9,property_504,Non-Flooding
+No_amenities,property_505,No amenities
+amenity_1,property_506,Car Parking
+amenity_2,property_506,Commercial area
+amenity_8,property_506,Gym/Fitness Center
+amenity_3,property_506,Lift / Elevator
+amenity_9,property_506,Non-Flooding
+amenity_5,property_506,Swimming Pool
+amenity_1,property_507,Car Parking
+amenity_2,property_507,Commercial area
+amenity_9,property_507,Non-Flooding
+amenity_1,property_508,Car Parking
+amenity_8,property_508,Gym/Fitness Center
+amenity_3,property_508,Lift / Elevator
+amenity_5,property_508,Swimming Pool
+amenity_1,property_509,Car Parking
+amenity_2,property_509,Commercial area
+amenity_9,property_509,Non-Flooding
+amenity_4,property_509,On main road
+amenity_1,property_510,Car Parking
+amenity_2,property_510,Commercial area
+amenity_9,property_510,Non-Flooding
+amenity_1,property_511,Car Parking
+amenity_2,property_511,Commercial area
+amenity_9,property_511,Non-Flooding
+No_amenities,property_512,No amenities
+No_amenities,property_513,No amenities
+amenity_1,property_514,Car Parking
+amenity_2,property_514,Commercial area
+amenity_9,property_514,Non-Flooding
+amenity_2,property_515,Commercial area
+amenity_9,property_515,Non-Flooding
+amenity_1,property_516,Car Parking
+amenity_2,property_516,Commercial area
+amenity_9,property_516,Non-Flooding
+amenity_5,property_516,Swimming Pool
+amenity_1,property_517,Car Parking
+amenity_2,property_517,Commercial area
+amenity_9,property_517,Non-Flooding
+amenity_4,property_517,On main road
+amenity_1,property_518,Car Parking
+amenity_2,property_518,Commercial area
+amenity_9,property_518,Non-Flooding
+amenity_1,property_519,Car Parking
+amenity_2,property_519,Commercial area
+amenity_8,property_519,Gym/Fitness Center
+amenity_3,property_519,Lift / Elevator
+amenity_9,property_519,Non-Flooding
+amenity_5,property_519,Swimming Pool
+amenity_1,property_520,Car Parking
+amenity_2,property_520,Commercial area
+amenity_8,property_520,Gym/Fitness Center
+amenity_3,property_520,Lift / Elevator
+amenity_9,property_520,Non-Flooding
+amenity_5,property_520,Swimming Pool
+amenity_1,property_521,Car Parking
+amenity_2,property_521,Commercial area
+amenity_9,property_521,Non-Flooding
+amenity_5,property_521,Swimming Pool
+amenity_1,property_522,Car Parking
+amenity_7,property_522,Garden
+amenity_9,property_522,Non-Flooding
+amenity_11,property_522,Playground
+amenity_12,property_522,Sports Facilities
+amenity_5,property_522,Swimming Pool
+amenity_2,property_523,Commercial area
+amenity_9,property_523,Non-Flooding
+amenity_4,property_523,On main road
+amenity_1,property_524,Car Parking
+amenity_2,property_524,Commercial area
+amenity_9,property_524,Non-Flooding
+amenity_1,property_525,Car Parking
+amenity_2,property_525,Commercial area
+amenity_9,property_525,Non-Flooding
+amenity_2,property_526,Commercial area
+amenity_9,property_526,Non-Flooding
+amenity_1,property_527,Car Parking
+amenity_2,property_527,Commercial area
+amenity_9,property_527,Non-Flooding
+amenity_1,property_528,Car Parking
+amenity_2,property_528,Commercial area
+amenity_9,property_528,Non-Flooding
+amenity_1,property_529,Car Parking
+amenity_2,property_529,Commercial area
+amenity_9,property_529,Non-Flooding
+amenity_4,property_529,On main road
+amenity_1,property_530,Car Parking
+amenity_2,property_530,Commercial area
+amenity_9,property_530,Non-Flooding
+amenity_1,property_531,Car Parking
+amenity_2,property_531,Commercial area
+amenity_9,property_531,Non-Flooding
+amenity_1,property_532,Car Parking
+amenity_2,property_532,Commercial area
+amenity_9,property_532,Non-Flooding
+amenity_1,property_533,Car Parking
+amenity_2,property_533,Commercial area
+amenity_8,property_533,Gym/Fitness Center
+amenity_3,property_533,Lift / Elevator
+amenity_9,property_533,Non-Flooding
+amenity_5,property_533,Swimming Pool
+amenity_10,property_533,Backup Electricity / Generator
+amenity_1,property_534,Car Parking
+amenity_9,property_534,Non-Flooding
+amenity_1,property_535,Car Parking
+amenity_2,property_535,Commercial area
+amenity_9,property_535,Non-Flooding
+amenity_1,property_536,Car Parking
+amenity_2,property_536,Commercial area
+amenity_9,property_536,Non-Flooding
+amenity_2,property_537,Commercial area
+amenity_9,property_537,Non-Flooding
+amenity_1,property_538,Car Parking
+amenity_2,property_538,Commercial area
+amenity_9,property_538,Non-Flooding
+amenity_1,property_539,Car Parking
+amenity_2,property_539,Commercial area
+amenity_9,property_539,Non-Flooding
+amenity_1,property_540,Car Parking
+amenity_2,property_540,Commercial area
+amenity_9,property_540,Non-Flooding
+No_amenities,property_541,No amenities
+amenity_1,property_542,Car Parking
+amenity_2,property_542,Commercial area
+amenity_9,property_542,Non-Flooding
+amenity_4,property_542,On main road
+amenity_1,property_543,Car Parking
+amenity_2,property_543,Commercial area
+amenity_1,property_544,Car Parking
+amenity_2,property_544,Commercial area
+amenity_9,property_544,Non-Flooding
+amenity_1,property_545,Car Parking
+amenity_2,property_545,Commercial area
+amenity_9,property_545,Non-Flooding
+amenity_1,property_546,Car Parking
+amenity_2,property_546,Commercial area
+amenity_8,property_546,Gym/Fitness Center
+amenity_3,property_546,Lift / Elevator
+amenity_9,property_546,Non-Flooding
+amenity_5,property_546,Swimming Pool
+amenity_10,property_546,Backup Electricity / Generator
+amenity_1,property_547,Car Parking
+amenity_2,property_547,Commercial area
+amenity_9,property_547,Non-Flooding
+amenity_1,property_548,Car Parking
+amenity_2,property_548,Commercial area
+amenity_9,property_548,Non-Flooding
+amenity_2,property_549,Commercial area
+amenity_9,property_549,Non-Flooding
+amenity_1,property_550,Car Parking
+amenity_2,property_550,Commercial area
+amenity_9,property_550,Non-Flooding
+amenity_1,property_551,Car Parking
+amenity_2,property_551,Commercial area
+amenity_9,property_551,Non-Flooding
+amenity_1,property_552,Car Parking
+amenity_2,property_552,Commercial area
+amenity_9,property_552,Non-Flooding
+amenity_1,property_553,Car Parking
+amenity_2,property_553,Commercial area
+amenity_1,property_554,Car Parking
+amenity_2,property_554,Commercial area
+amenity_9,property_554,Non-Flooding
+amenity_1,property_555,Car Parking
+amenity_2,property_555,Commercial area
+amenity_3,property_555,Lift / Elevator
+amenity_9,property_555,Non-Flooding
+amenity_1,property_556,Car Parking
+amenity_2,property_556,Commercial area
+amenity_9,property_556,Non-Flooding
+No_amenities,property_557,No amenities
+amenity_1,property_558,Car Parking
+amenity_2,property_558,Commercial area
+amenity_6,property_558,Common Area
+amenity_7,property_558,Garden
+amenity_3,property_558,Lift / Elevator
+amenity_9,property_558,Non-Flooding
+amenity_14,property_558,Sauna
+amenity_5,property_558,Swimming Pool
+amenity_1,property_559,Car Parking
+amenity_2,property_559,Commercial area
+amenity_6,property_559,Common Area
+amenity_9,property_559,Non-Flooding
+amenity_10,property_559,Backup Electricity / Generator
+amenity_1,property_560,Car Parking
+amenity_2,property_560,Commercial area
+amenity_9,property_560,Non-Flooding
+amenity_4,property_560,On main road
+No_amenities,property_561,No amenities
+amenity_1,property_562,Car Parking
+amenity_2,property_562,Commercial area
+amenity_9,property_562,Non-Flooding
+amenity_1,property_563,Car Parking
+amenity_2,property_563,Commercial area
+amenity_9,property_563,Non-Flooding
+amenity_1,property_564,Car Parking
+amenity_9,property_564,Non-Flooding
+No_amenities,property_565,No amenities
+No_amenities,property_566,No amenities
+amenity_1,property_567,Car Parking
+amenity_2,property_567,Commercial area
+amenity_9,property_567,Non-Flooding
+amenity_1,property_568,Car Parking
+amenity_2,property_568,Commercial area
+amenity_9,property_568,Non-Flooding
+amenity_1,property_569,Car Parking
+amenity_2,property_569,Commercial area
+amenity_9,property_569,Non-Flooding
+amenity_1,property_570,Car Parking
+amenity_2,property_570,Commercial area
+amenity_3,property_570,Lift / Elevator
+amenity_9,property_570,Non-Flooding
+amenity_1,property_571,Car Parking
+amenity_2,property_571,Commercial area
+amenity_9,property_571,Non-Flooding
+amenity_1,property_572,Car Parking
+amenity_2,property_572,Commercial area
+amenity_9,property_572,Non-Flooding
+amenity_1,property_573,Car Parking
+amenity_2,property_573,Commercial area
+amenity_9,property_573,Non-Flooding
+amenity_2,property_574,Commercial area
+amenity_6,property_574,Common Area
+amenity_9,property_574,Non-Flooding
+amenity_1,property_575,Car Parking
+amenity_6,property_575,Common Area
+amenity_9,property_575,Non-Flooding
+amenity_1,property_576,Car Parking
+amenity_2,property_576,Commercial area
+amenity_9,property_576,Non-Flooding
+amenity_1,property_577,Car Parking
+amenity_2,property_577,Commercial area
+amenity_9,property_577,Non-Flooding
+amenity_1,property_578,Car Parking
+amenity_2,property_578,Commercial area
+amenity_9,property_578,Non-Flooding
+amenity_1,property_579,Car Parking
+amenity_2,property_579,Commercial area
+amenity_8,property_579,Gym/Fitness Center
+amenity_3,property_579,Lift / Elevator
+amenity_9,property_579,Non-Flooding
+amenity_5,property_579,Swimming Pool
+amenity_1,property_580,Car Parking
+amenity_2,property_580,Commercial area
+amenity_3,property_580,Lift / Elevator
+amenity_9,property_580,Non-Flooding
+No_amenities,property_581,No amenities
+No_amenities,property_582,No amenities
+amenity_1,property_583,Car Parking
+amenity_6,property_583,Common Area
+amenity_7,property_583,Garden
+amenity_8,property_583,Gym/Fitness Center
+amenity_3,property_583,Lift / Elevator
+amenity_4,property_583,On main road
+amenity_11,property_583,Playground
+amenity_5,property_583,Swimming Pool
+amenity_10,property_583,Backup Electricity / Generator
+amenity_1,property_584,Car Parking
+amenity_2,property_584,Commercial area
+amenity_8,property_584,Gym/Fitness Center
+amenity_3,property_584,Lift / Elevator
+amenity_9,property_584,Non-Flooding
+amenity_5,property_584,Swimming Pool
+amenity_8,property_585,Gym/Fitness Center
+amenity_3,property_585,Lift / Elevator
+amenity_5,property_585,Swimming Pool
+amenity_1,property_586,Car Parking
+amenity_2,property_586,Commercial area
+amenity_8,property_586,Gym/Fitness Center
+amenity_3,property_586,Lift / Elevator
+amenity_9,property_586,Non-Flooding
+amenity_5,property_586,Swimming Pool
+amenity_1,property_587,Car Parking
+amenity_2,property_587,Commercial area
+amenity_9,property_587,Non-Flooding
+amenity_1,property_588,Car Parking
+amenity_2,property_588,Commercial area
+amenity_9,property_588,Non-Flooding
+amenity_1,property_589,Car Parking
+amenity_2,property_589,Commercial area
+amenity_3,property_589,Lift / Elevator
+amenity_9,property_589,Non-Flooding
+amenity_1,property_590,Car Parking
+amenity_2,property_590,Commercial area
+amenity_9,property_590,Non-Flooding
+No_amenities,property_591,No amenities
+No_amenities,property_592,No amenities
+amenity_1,property_593,Car Parking
+amenity_7,property_593,Garden
+amenity_9,property_593,Non-Flooding
+amenity_4,property_593,On main road
+amenity_11,property_593,Playground
+amenity_1,property_594,Car Parking
+amenity_9,property_594,Non-Flooding
+amenity_4,property_594,On main road
+amenity_1,property_595,Car Parking
+amenity_7,property_595,Garden
+amenity_9,property_595,Non-Flooding
+amenity_11,property_595,Playground
+No_amenities,property_596,No amenities
+amenity_1,property_597,Car Parking
+amenity_2,property_597,Commercial area
+amenity_6,property_597,Common Area
+amenity_9,property_598,Non-Flooding
+amenity_4,property_598,On main road
+amenity_1,property_599,Car Parking
+amenity_2,property_599,Commercial area
+amenity_6,property_599,Common Area
+amenity_9,property_599,Non-Flooding
+amenity_1,property_600,Car Parking
+amenity_2,property_600,Commercial area
+amenity_9,property_600,Non-Flooding
+amenity_2,property_601,Commercial area
+amenity_9,property_601,Non-Flooding
+amenity_1,property_602,Car Parking
+amenity_2,property_602,Commercial area
+amenity_9,property_602,Non-Flooding
+amenity_1,property_603,Car Parking
+amenity_2,property_603,Commercial area
+amenity_8,property_603,Gym/Fitness Center
+amenity_3,property_603,Lift / Elevator
+amenity_9,property_603,Non-Flooding
+amenity_5,property_603,Swimming Pool
+amenity_1,property_604,Car Parking
+amenity_2,property_604,Commercial area
+amenity_9,property_604,Non-Flooding
+amenity_1,property_605,Car Parking
+amenity_2,property_605,Commercial area
+amenity_3,property_605,Lift / Elevator
+amenity_9,property_605,Non-Flooding
+amenity_5,property_605,Swimming Pool
+amenity_1,property_606,Car Parking
+amenity_2,property_606,Commercial area
+amenity_9,property_606,Non-Flooding
+amenity_1,property_607,Car Parking
+amenity_2,property_607,Commercial area
+amenity_9,property_607,Non-Flooding
+No_amenities,property_608,No amenities
+amenity_1,property_609,Car Parking
+amenity_2,property_609,Commercial area
+amenity_9,property_609,Non-Flooding
+amenity_1,property_610,Car Parking
+amenity_2,property_610,Commercial area
+amenity_6,property_610,Common Area
+amenity_7,property_610,Garden
+amenity_8,property_610,Gym/Fitness Center
+amenity_3,property_610,Lift / Elevator
+amenity_9,property_610,Non-Flooding
+amenity_4,property_610,On main road
+amenity_5,property_610,Swimming Pool
+amenity_10,property_610,Backup Electricity / Generator
+amenity_1,property_611,Car Parking
+amenity_7,property_611,Garden
+amenity_9,property_611,Non-Flooding
+No_amenities,property_612,No amenities
+amenity_2,property_613,Commercial area
+amenity_9,property_613,Non-Flooding
+amenity_1,property_614,Car Parking
+amenity_2,property_614,Commercial area
+amenity_7,property_614,Garden
+amenity_9,property_614,Non-Flooding
+amenity_1,property_615,Car Parking
+amenity_2,property_615,Commercial area
+amenity_9,property_615,Non-Flooding
+amenity_4,property_615,On main road
+amenity_1,property_616,Car Parking
+amenity_2,property_616,Commercial area
+amenity_9,property_616,Non-Flooding
+amenity_1,property_617,Car Parking
+amenity_2,property_617,Commercial area
+amenity_9,property_617,Non-Flooding
+amenity_4,property_617,On main road
+amenity_1,property_618,Car Parking
+amenity_9,property_618,Non-Flooding
+amenity_1,property_619,Car Parking
+amenity_2,property_619,Commercial area
+amenity_8,property_619,Gym/Fitness Center
+amenity_3,property_619,Lift / Elevator
+amenity_9,property_619,Non-Flooding
+amenity_4,property_619,On main road
+amenity_5,property_619,Swimming Pool
+No_amenities,property_620,No amenities
+amenity_2,property_621,Commercial area
+amenity_9,property_621,Non-Flooding
+No_amenities,property_622,No amenities
+amenity_1,property_623,Car Parking
+amenity_2,property_623,Commercial area
+amenity_6,property_623,Common Area
+amenity_7,property_623,Garden
+amenity_8,property_623,Gym/Fitness Center
+amenity_3,property_623,Lift / Elevator
+amenity_5,property_623,Swimming Pool
+amenity_1,property_624,Car Parking
+amenity_7,property_624,Garden
+amenity_9,property_624,Non-Flooding
+No_amenities,property_625,No amenities
+No_amenities,property_626,No amenities
+amenity_7,property_627,Garden
+amenity_9,property_627,Non-Flooding
+amenity_1,property_628,Car Parking
+amenity_2,property_628,Commercial area
+amenity_7,property_628,Garden
+amenity_9,property_628,Non-Flooding
+amenity_4,property_628,On main road
+amenity_5,property_628,Swimming Pool
+amenity_1,property_629,Car Parking
+amenity_7,property_629,Garden
+amenity_9,property_629,Non-Flooding
+amenity_11,property_629,Playground
+amenity_1,property_630,Car Parking
+amenity_2,property_630,Commercial area
+amenity_9,property_630,Non-Flooding
+amenity_1,property_631,Car Parking
+amenity_2,property_631,Commercial area
+amenity_9,property_631,Non-Flooding
+amenity_1,property_632,Car Parking
+amenity_2,property_632,Commercial area
+No_amenities,property_633,No amenities
+amenity_1,property_634,Car Parking
+amenity_7,property_634,Garden
+amenity_9,property_634,Non-Flooding
+amenity_1,property_635,Car Parking
+amenity_2,property_635,Commercial area
+amenity_7,property_635,Garden
+amenity_8,property_635,Gym/Fitness Center
+amenity_3,property_635,Lift / Elevator
+amenity_4,property_635,On main road
+amenity_5,property_635,Swimming Pool
+amenity_10,property_635,Backup Electricity / Generator
+amenity_9,property_636,Non-Flooding
+amenity_1,property_637,Car Parking
+amenity_7,property_637,Garden
+amenity_9,property_637,Non-Flooding
+amenity_4,property_637,On main road
+amenity_11,property_637,Playground
+amenity_1,property_638,Car Parking
+amenity_2,property_638,Commercial area
+amenity_7,property_638,Garden
+amenity_9,property_638,Non-Flooding
+amenity_1,property_639,Car Parking
+amenity_7,property_639,Garden
+amenity_9,property_639,Non-Flooding
+amenity_4,property_639,On main road
+amenity_11,property_639,Playground
+amenity_1,property_640,Car Parking
+amenity_7,property_640,Garden
+amenity_9,property_640,Non-Flooding
+amenity_4,property_640,On main road
+amenity_11,property_640,Playground
+amenity_1,property_641,Car Parking
+amenity_7,property_641,Garden
+amenity_8,property_641,Gym/Fitness Center
+amenity_3,property_641,Lift / Elevator
+amenity_9,property_641,Non-Flooding
+amenity_10,property_641,Backup Electricity / Generator
+amenity_1,property_642,Car Parking
+amenity_6,property_642,Common Area
+amenity_7,property_642,Garden
+amenity_8,property_642,Gym/Fitness Center
+amenity_3,property_642,Lift / Elevator
+amenity_9,property_642,Non-Flooding
+amenity_4,property_642,On main road
+amenity_5,property_642,Swimming Pool
+amenity_10,property_642,Backup Electricity / Generator
+amenity_2,property_643,Commercial area
+amenity_9,property_643,Non-Flooding
+amenity_1,property_644,Car Parking
+amenity_9,property_644,Non-Flooding
+amenity_1,property_645,Car Parking
+amenity_2,property_645,Commercial area
+amenity_6,property_645,Common Area
+amenity_8,property_645,Gym/Fitness Center
+amenity_3,property_645,Lift / Elevator
+amenity_9,property_645,Non-Flooding
+amenity_11,property_645,Playground
+amenity_14,property_645,Sauna
+amenity_12,property_645,Sports Facilities
+amenity_5,property_645,Swimming Pool
+amenity_1,property_646,Car Parking
+amenity_2,property_646,Commercial area
+amenity_9,property_646,Non-Flooding
+amenity_1,property_647,Car Parking
+amenity_2,property_647,Commercial area
+amenity_9,property_647,Non-Flooding
+amenity_4,property_647,On main road
+amenity_1,property_648,Car Parking
+amenity_2,property_648,Commercial area
+amenity_9,property_648,Non-Flooding
+amenity_1,property_649,Car Parking
+amenity_2,property_649,Commercial area
+amenity_9,property_649,Non-Flooding
+No_amenities,property_650,No amenities
+amenity_2,property_651,Commercial area
+amenity_9,property_651,Non-Flooding
+amenity_4,property_651,On main road
+amenity_1,property_652,Car Parking
+amenity_2,property_652,Commercial area
+amenity_8,property_652,Gym/Fitness Center
+amenity_3,property_652,Lift / Elevator
+amenity_9,property_652,Non-Flooding
+amenity_4,property_652,On main road
+amenity_5,property_652,Swimming Pool
+amenity_10,property_652,Backup Electricity / Generator
+amenity_1,property_653,Car Parking
+amenity_2,property_653,Commercial area
+amenity_9,property_653,Non-Flooding
+amenity_1,property_654,Car Parking
+amenity_2,property_654,Commercial area
+amenity_9,property_654,Non-Flooding
+amenity_1,property_655,Car Parking
+amenity_2,property_655,Commercial area
+amenity_9,property_655,Non-Flooding
+amenity_1,property_656,Car Parking
+amenity_6,property_656,Common Area
+amenity_9,property_656,Non-Flooding
+amenity_4,property_656,On main road
+amenity_1,property_657,Car Parking
+amenity_2,property_657,Commercial area
+amenity_6,property_657,Common Area
+amenity_9,property_657,Non-Flooding
+amenity_4,property_657,On main road
+No_amenities,property_658,No amenities
+amenity_1,property_659,Car Parking
+amenity_2,property_659,Commercial area
+amenity_8,property_659,Gym/Fitness Center
+amenity_3,property_659,Lift / Elevator
+amenity_9,property_659,Non-Flooding
+amenity_11,property_659,Playground
+amenity_5,property_659,Swimming Pool
+amenity_10,property_659,Backup Electricity / Generator
+amenity_1,property_660,Car Parking
+amenity_6,property_660,Common Area
+amenity_9,property_660,Non-Flooding
+amenity_4,property_660,On main road
+No_amenities,property_661,No amenities
+amenity_1,property_662,Car Parking
+amenity_2,property_662,Commercial area
+amenity_9,property_662,Non-Flooding
+amenity_1,property_663,Car Parking
+amenity_2,property_663,Commercial area
+amenity_9,property_663,Non-Flooding
+amenity_1,property_664,Car Parking
+amenity_2,property_664,Commercial area
+amenity_9,property_664,Non-Flooding
+amenity_1,property_665,Car Parking
+amenity_2,property_665,Commercial area
+amenity_9,property_665,Non-Flooding
+amenity_1,property_666,Car Parking
+amenity_2,property_666,Commercial area
+amenity_9,property_666,Non-Flooding
+amenity_4,property_666,On main road
+amenity_1,property_667,Car Parking
+amenity_2,property_667,Commercial area
+amenity_9,property_667,Non-Flooding
+amenity_1,property_668,Car Parking
+amenity_2,property_668,Commercial area
+amenity_9,property_668,Non-Flooding
+No_amenities,property_669,No amenities
+amenity_1,property_670,Car Parking
+amenity_2,property_670,Commercial area
+amenity_9,property_670,Non-Flooding
+amenity_1,property_671,Car Parking
+amenity_2,property_671,Commercial area
+amenity_9,property_671,Non-Flooding
+amenity_1,property_672,Car Parking
+amenity_2,property_672,Commercial area
+amenity_9,property_672,Non-Flooding
+amenity_1,property_673,Car Parking
+amenity_2,property_673,Commercial area
+amenity_9,property_673,Non-Flooding
+amenity_1,property_674,Car Parking
+amenity_2,property_674,Commercial area
+amenity_1,property_675,Car Parking
+amenity_2,property_675,Commercial area
+amenity_9,property_675,Non-Flooding
+amenity_1,property_676,Car Parking
+amenity_2,property_676,Commercial area
+amenity_9,property_676,Non-Flooding
+amenity_1,property_677,Car Parking
+amenity_2,property_677,Commercial area
+amenity_9,property_677,Non-Flooding
+amenity_4,property_677,On main road
+amenity_1,property_678,Car Parking
+amenity_2,property_678,Commercial area
+amenity_9,property_678,Non-Flooding
+amenity_1,property_679,Car Parking
+amenity_2,property_679,Commercial area
+amenity_9,property_679,Non-Flooding
+amenity_1,property_680,Car Parking
+amenity_2,property_680,Commercial area
+amenity_9,property_680,Non-Flooding
+No_amenities,property_681,No amenities
+No_amenities,property_682,No amenities
+amenity_1,property_683,Car Parking
+amenity_6,property_683,Common Area
+amenity_8,property_683,Gym/Fitness Center
+amenity_3,property_683,Lift / Elevator
+amenity_9,property_683,Non-Flooding
+amenity_5,property_683,Swimming Pool
+amenity_6,property_684,Common Area
+amenity_8,property_684,Gym/Fitness Center
+amenity_3,property_684,Lift / Elevator
+amenity_9,property_684,Non-Flooding
+amenity_4,property_684,On main road
+amenity_5,property_684,Swimming Pool
+No_amenities,property_685,No amenities
+amenity_6,property_686,Common Area
+amenity_9,property_686,Non-Flooding
+amenity_1,property_687,Car Parking
+amenity_6,property_687,Common Area
+amenity_3,property_687,Lift / Elevator
+amenity_1,property_688,Car Parking
+amenity_9,property_688,Non-Flooding
+amenity_1,property_689,Car Parking
+amenity_2,property_689,Commercial area
+amenity_6,property_689,Common Area
+amenity_9,property_689,Non-Flooding
+amenity_1,property_690,Car Parking
+amenity_2,property_690,Commercial area
+amenity_9,property_690,Non-Flooding
+amenity_1,property_691,Car Parking
+amenity_2,property_691,Commercial area
+amenity_9,property_691,Non-Flooding
+amenity_4,property_691,On main road
+amenity_1,property_692,Car Parking
+amenity_2,property_692,Commercial area
+amenity_9,property_692,Non-Flooding
+amenity_1,property_693,Car Parking
+amenity_2,property_693,Commercial area
+amenity_9,property_693,Non-Flooding
+amenity_1,property_694,Car Parking
+amenity_2,property_694,Commercial area
+amenity_9,property_694,Non-Flooding
+amenity_1,property_695,Car Parking
+amenity_9,property_695,Non-Flooding
+amenity_1,property_696,Car Parking
+amenity_2,property_696,Commercial area
+amenity_9,property_696,Non-Flooding
+amenity_4,property_696,On main road
+amenity_1,property_697,Car Parking
+amenity_2,property_697,Commercial area
+amenity_9,property_697,Non-Flooding
+amenity_4,property_697,On main road
+amenity_9,property_698,Non-Flooding
+amenity_1,property_699,Car Parking
+amenity_2,property_699,Commercial area
+amenity_9,property_699,Non-Flooding
+amenity_1,property_700,Car Parking
+amenity_2,property_700,Commercial area
+amenity_9,property_700,Non-Flooding
+amenity_1,property_701,Car Parking
+amenity_2,property_701,Commercial area
+amenity_9,property_701,Non-Flooding
+amenity_1,property_702,Car Parking
+amenity_2,property_702,Commercial area
+amenity_9,property_702,Non-Flooding
+amenity_4,property_702,On main road
+amenity_5,property_702,Swimming Pool
+amenity_1,property_703,Car Parking
+amenity_2,property_703,Commercial area
+amenity_6,property_703,Common Area
+amenity_8,property_703,Gym/Fitness Center
+amenity_3,property_703,Lift / Elevator
+amenity_9,property_703,Non-Flooding
+amenity_4,property_703,On main road
+amenity_5,property_703,Swimming Pool
+amenity_10,property_703,Backup Electricity / Generator
+amenity_1,property_704,Car Parking
+amenity_2,property_704,Commercial area
+amenity_9,property_704,Non-Flooding
+amenity_1,property_705,Car Parking
+amenity_2,property_705,Commercial area
+amenity_9,property_705,Non-Flooding
+amenity_1,property_706,Car Parking
+amenity_2,property_706,Commercial area
+amenity_9,property_706,Non-Flooding
+amenity_1,property_707,Car Parking
+amenity_9,property_707,Non-Flooding
+amenity_4,property_707,On main road
+amenity_1,property_708,Car Parking
+amenity_9,property_708,Non-Flooding
+amenity_4,property_708,On main road
+amenity_1,property_709,Car Parking
+amenity_2,property_709,Commercial area
+amenity_8,property_709,Gym/Fitness Center
+amenity_3,property_709,Lift / Elevator
+amenity_9,property_709,Non-Flooding
+amenity_14,property_709,Sauna
+amenity_2,property_710,Commercial area
+amenity_9,property_710,Non-Flooding
+amenity_4,property_710,On main road
+amenity_1,property_711,Car Parking
+amenity_2,property_711,Commercial area
+amenity_9,property_711,Non-Flooding
+amenity_1,property_712,Car Parking
+amenity_7,property_712,Garden
+amenity_9,property_712,Non-Flooding
+amenity_6,property_713,Common Area
+amenity_9,property_713,Non-Flooding
+amenity_2,property_714,Commercial area
+amenity_9,property_714,Non-Flooding
+amenity_4,property_714,On main road
+amenity_1,property_715,Car Parking
+amenity_2,property_715,Commercial area
+amenity_9,property_715,Non-Flooding
+amenity_1,property_716,Car Parking
+amenity_2,property_716,Commercial area
+amenity_9,property_716,Non-Flooding
+amenity_1,property_717,Car Parking
+amenity_2,property_717,Commercial area
+amenity_9,property_717,Non-Flooding
+amenity_1,property_718,Car Parking
+amenity_2,property_718,Commercial area
+amenity_7,property_718,Garden
+amenity_9,property_718,Non-Flooding
+amenity_1,property_719,Car Parking
+amenity_2,property_719,Commercial area
+amenity_9,property_719,Non-Flooding
+amenity_1,property_720,Car Parking
+amenity_2,property_720,Commercial area
+amenity_9,property_720,Non-Flooding
+amenity_1,property_721,Car Parking
+amenity_9,property_721,Non-Flooding
+amenity_4,property_721,On main road
+amenity_1,property_722,Car Parking
+amenity_2,property_722,Commercial area
+amenity_9,property_722,Non-Flooding
+amenity_1,property_723,Car Parking
+amenity_2,property_723,Commercial area
+amenity_9,property_723,Non-Flooding
+amenity_1,property_724,Car Parking
+amenity_2,property_724,Commercial area
+amenity_9,property_724,Non-Flooding
+amenity_1,property_725,Car Parking
+amenity_2,property_725,Commercial area
+amenity_9,property_725,Non-Flooding
+amenity_1,property_726,Car Parking
+amenity_2,property_726,Commercial area
+amenity_9,property_726,Non-Flooding
+amenity_1,property_727,Car Parking
+amenity_2,property_727,Commercial area
+amenity_9,property_727,Non-Flooding
+amenity_1,property_728,Car Parking
+amenity_6,property_728,Common Area
+amenity_7,property_728,Garden
+amenity_1,property_729,Car Parking
+amenity_2,property_729,Commercial area
+amenity_9,property_729,Non-Flooding
+amenity_4,property_729,On main road
+amenity_1,property_730,Car Parking
+amenity_2,property_730,Commercial area
+amenity_7,property_730,Garden
+amenity_3,property_730,Lift / Elevator
+amenity_9,property_730,Non-Flooding
+amenity_5,property_730,Swimming Pool
+amenity_1,property_731,Car Parking
+amenity_2,property_731,Commercial area
+amenity_6,property_731,Common Area
+amenity_8,property_731,Gym/Fitness Center
+amenity_3,property_731,Lift / Elevator
+amenity_9,property_731,Non-Flooding
+amenity_5,property_731,Swimming Pool
+amenity_10,property_731,Backup Electricity / Generator
+amenity_1,property_732,Car Parking
+amenity_2,property_732,Commercial area
+amenity_9,property_732,Non-Flooding
+amenity_1,property_733,Car Parking
+amenity_2,property_733,Commercial area
+amenity_9,property_733,Non-Flooding
+amenity_1,property_734,Car Parking
+amenity_2,property_734,Commercial area
+amenity_9,property_734,Non-Flooding
+amenity_1,property_735,Car Parking
+amenity_2,property_735,Commercial area
+amenity_9,property_735,Non-Flooding
+amenity_4,property_735,On main road
+amenity_1,property_736,Car Parking
+amenity_2,property_736,Commercial area
+amenity_8,property_736,Gym/Fitness Center
+amenity_3,property_736,Lift / Elevator
+amenity_9,property_736,Non-Flooding
+amenity_4,property_736,On main road
+amenity_14,property_736,Sauna
+amenity_1,property_737,Car Parking
+amenity_2,property_737,Commercial area
+amenity_8,property_737,Gym/Fitness Center
+amenity_3,property_737,Lift / Elevator
+amenity_9,property_737,Non-Flooding
+amenity_4,property_737,On main road
+amenity_5,property_737,Swimming Pool
+amenity_10,property_737,Backup Electricity / Generator
+amenity_1,property_738,Car Parking
+amenity_7,property_738,Garden
+amenity_9,property_738,Non-Flooding
+amenity_11,property_738,Playground
+amenity_1,property_739,Car Parking
+amenity_7,property_739,Garden
+amenity_9,property_739,Non-Flooding
+amenity_4,property_739,On main road
+amenity_11,property_739,Playground
+amenity_9,property_740,Non-Flooding
+amenity_4,property_740,On main road
+amenity_1,property_741,Car Parking
+amenity_2,property_741,Commercial area
+amenity_9,property_741,Non-Flooding
+amenity_1,property_742,Car Parking
+amenity_2,property_742,Commercial area
+amenity_9,property_742,Non-Flooding
+amenity_1,property_743,Car Parking
+amenity_2,property_743,Commercial area
+amenity_9,property_743,Non-Flooding
+amenity_1,property_744,Car Parking
+amenity_7,property_744,Garden
+amenity_9,property_744,Non-Flooding
+amenity_11,property_744,Playground
+amenity_1,property_745,Car Parking
+amenity_2,property_745,Commercial area
+amenity_9,property_745,Non-Flooding
+amenity_1,property_746,Car Parking
+amenity_2,property_746,Commercial area
+amenity_8,property_746,Gym/Fitness Center
+amenity_3,property_746,Lift / Elevator
+amenity_9,property_746,Non-Flooding
+amenity_14,property_746,Sauna
+amenity_5,property_746,Swimming Pool
+amenity_1,property_747,Car Parking
+amenity_6,property_747,Common Area
+amenity_7,property_747,Garden
+amenity_8,property_747,Gym/Fitness Center
+amenity_3,property_747,Lift / Elevator
+amenity_9,property_747,Non-Flooding
+amenity_11,property_747,Playground
+amenity_5,property_747,Swimming Pool
+amenity_1,property_748,Car Parking
+amenity_2,property_748,Commercial area
+amenity_9,property_748,Non-Flooding
+amenity_1,property_749,Car Parking
+amenity_9,property_749,Non-Flooding
+amenity_1,property_750,Car Parking
+amenity_7,property_750,Garden
+amenity_9,property_750,Non-Flooding
+amenity_4,property_750,On main road
+amenity_11,property_750,Playground
+amenity_1,property_751,Car Parking
+amenity_2,property_751,Commercial area
+amenity_9,property_751,Non-Flooding
+amenity_4,property_751,On main road
+amenity_1,property_752,Car Parking
+amenity_7,property_752,Garden
+amenity_9,property_752,Non-Flooding
+amenity_1,property_753,Car Parking
+amenity_2,property_753,Commercial area
+amenity_9,property_753,Non-Flooding
+amenity_1,property_754,Car Parking
+amenity_2,property_754,Commercial area
+amenity_9,property_754,Non-Flooding
+amenity_1,property_755,Car Parking
+amenity_7,property_755,Garden
+amenity_9,property_755,Non-Flooding
+amenity_4,property_755,On main road
+amenity_11,property_755,Playground
+amenity_1,property_756,Car Parking
+amenity_2,property_756,Commercial area
+amenity_9,property_756,Non-Flooding
+amenity_1,property_757,Car Parking
+amenity_9,property_757,Non-Flooding
+No_amenities,property_758,No amenities
+amenity_1,property_759,Car Parking
+amenity_2,property_759,Commercial area
+amenity_9,property_759,Non-Flooding
+amenity_1,property_760,Car Parking
+amenity_2,property_760,Commercial area
+amenity_9,property_760,Non-Flooding
+amenity_4,property_760,On main road
+amenity_1,property_761,Car Parking
+amenity_2,property_761,Commercial area
+amenity_9,property_761,Non-Flooding
+amenity_4,property_761,On main road
+No_amenities,property_762,No amenities
+amenity_1,property_763,Car Parking
+amenity_9,property_763,Non-Flooding
+amenity_4,property_763,On main road
+No_amenities,property_764,No amenities
+amenity_1,property_765,Car Parking
+amenity_2,property_765,Commercial area
+amenity_9,property_765,Non-Flooding
+No_amenities,property_766,No amenities
+amenity_1,property_767,Car Parking
+amenity_9,property_767,Non-Flooding
+amenity_2,property_768,Commercial area
+amenity_9,property_768,Non-Flooding
+amenity_1,property_769,Car Parking
+amenity_2,property_769,Commercial area
+amenity_9,property_769,Non-Flooding
+amenity_1,property_770,Car Parking
+amenity_2,property_770,Commercial area
+amenity_8,property_770,Gym/Fitness Center
+amenity_3,property_770,Lift / Elevator
+amenity_9,property_770,Non-Flooding
+amenity_4,property_770,On main road
+amenity_5,property_770,Swimming Pool
+amenity_1,property_771,Car Parking
+amenity_2,property_771,Commercial area
+amenity_9,property_771,Non-Flooding
+No_amenities,property_772,No amenities
+amenity_4,property_773,On main road
+amenity_1,property_774,Car Parking
+amenity_6,property_774,Common Area
+amenity_8,property_774,Gym/Fitness Center
+amenity_3,property_774,Lift / Elevator
+amenity_9,property_774,Non-Flooding
+amenity_4,property_774,On main road
+amenity_5,property_774,Swimming Pool
+amenity_1,property_775,Car Parking
+amenity_6,property_775,Common Area
+amenity_8,property_775,Gym/Fitness Center
+amenity_3,property_775,Lift / Elevator
+amenity_9,property_775,Non-Flooding
+amenity_4,property_775,On main road
+amenity_5,property_775,Swimming Pool
+amenity_10,property_775,Backup Electricity / Generator
+amenity_1,property_776,Car Parking
+amenity_2,property_776,Commercial area
+amenity_7,property_776,Garden
+amenity_8,property_776,Gym/Fitness Center
+amenity_3,property_776,Lift / Elevator
+amenity_9,property_776,Non-Flooding
+amenity_4,property_776,On main road
+amenity_5,property_776,Swimming Pool
+amenity_2,property_777,Commercial area
+amenity_3,property_777,Lift / Elevator
+amenity_9,property_777,Non-Flooding
+amenity_4,property_777,On main road
+No_amenities,property_778,No amenities
+amenity_1,property_779,Car Parking
+amenity_2,property_779,Commercial area
+amenity_7,property_779,Garden
+amenity_8,property_779,Gym/Fitness Center
+amenity_3,property_779,Lift / Elevator
+amenity_9,property_779,Non-Flooding
+amenity_4,property_779,On main road
+amenity_5,property_779,Swimming Pool
+amenity_6,property_780,Common Area
+amenity_9,property_780,Non-Flooding
+amenity_4,property_780,On main road
+amenity_1,property_781,Car Parking
+amenity_2,property_781,Commercial area
+amenity_9,property_781,Non-Flooding
+amenity_1,property_782,Car Parking
+amenity_2,property_782,Commercial area
+amenity_9,property_782,Non-Flooding
+amenity_1,property_783,Car Parking
+amenity_2,property_783,Commercial area
+amenity_9,property_783,Non-Flooding
+amenity_1,property_784,Car Parking
+amenity_2,property_784,Commercial area
+amenity_9,property_784,Non-Flooding
+amenity_9,property_785,Non-Flooding
+amenity_1,property_786,Car Parking
+amenity_2,property_786,Commercial area
+amenity_9,property_786,Non-Flooding
+amenity_1,property_787,Car Parking
+amenity_6,property_787,Common Area
+amenity_9,property_787,Non-Flooding
+amenity_4,property_787,On main road
+amenity_1,property_788,Car Parking
+amenity_2,property_788,Commercial area
+amenity_9,property_788,Non-Flooding
+amenity_1,property_789,Car Parking
+amenity_9,property_789,Non-Flooding
+amenity_4,property_789,On main road
+amenity_1,property_790,Car Parking
+amenity_2,property_790,Commercial area
+amenity_9,property_790,Non-Flooding
+amenity_1,property_791,Car Parking
+amenity_2,property_791,Commercial area
+amenity_9,property_791,Non-Flooding
+amenity_1,property_792,Car Parking
+amenity_2,property_792,Commercial area
+amenity_9,property_792,Non-Flooding
+amenity_4,property_792,On main road
+amenity_1,property_793,Car Parking
+amenity_9,property_793,Non-Flooding
+amenity_1,property_794,Car Parking
+amenity_2,property_794,Commercial area
+amenity_9,property_794,Non-Flooding
+amenity_1,property_795,Car Parking
+amenity_9,property_795,Non-Flooding
+amenity_1,property_796,Car Parking
+amenity_7,property_796,Garden
+amenity_8,property_796,Gym/Fitness Center
+amenity_3,property_796,Lift / Elevator
+amenity_9,property_796,Non-Flooding
+amenity_5,property_796,Swimming Pool
+amenity_10,property_796,Backup Electricity / Generator
+amenity_1,property_797,Car Parking
+amenity_2,property_797,Commercial area
+amenity_9,property_797,Non-Flooding
+amenity_1,property_798,Car Parking
+amenity_9,property_798,Non-Flooding
+amenity_1,property_799,Car Parking
+amenity_1,property_800,Car Parking
+amenity_9,property_800,Non-Flooding
+No_amenities,property_801,No amenities
+No_amenities,property_802,No amenities
+amenity_1,property_803,Car Parking
+amenity_9,property_803,Non-Flooding
+amenity_1,property_804,Car Parking
+amenity_9,property_804,Non-Flooding
+amenity_4,property_804,On main road
+amenity_6,property_805,Common Area
+amenity_7,property_805,Garden
+amenity_9,property_805,Non-Flooding
+No_amenities,property_806,No amenities
+amenity_9,property_807,Non-Flooding
+amenity_1,property_808,Car Parking
+amenity_7,property_808,Garden
+amenity_9,property_808,Non-Flooding
+amenity_4,property_808,On main road
+amenity_11,property_808,Playground
+No_amenities,property_809,No amenities
+amenity_1,property_810,Car Parking
+amenity_2,property_810,Commercial area
+amenity_6,property_810,Common Area
+amenity_7,property_810,Garden
+amenity_9,property_810,Non-Flooding
+amenity_5,property_810,Swimming Pool
+amenity_1,property_811,Car Parking
+amenity_2,property_811,Commercial area
+amenity_3,property_811,Lift / Elevator
+amenity_9,property_811,Non-Flooding
+No_amenities,property_812,No amenities
+No_amenities,property_813,No amenities
+amenity_1,property_814,Car Parking
+amenity_2,property_814,Commercial area
+amenity_9,property_814,Non-Flooding
+amenity_4,property_814,On main road
+amenity_1,property_815,Car Parking
+amenity_2,property_815,Commercial area
+amenity_7,property_815,Garden
+amenity_8,property_815,Gym/Fitness Center
+amenity_3,property_815,Lift / Elevator
+amenity_9,property_815,Non-Flooding
+amenity_4,property_815,On main road
+amenity_5,property_815,Swimming Pool
+amenity_10,property_815,Backup Electricity / Generator
+amenity_4,property_816,On main road
+amenity_1,property_817,Car Parking
+amenity_1,property_818,Car Parking
+amenity_7,property_818,Garden
+amenity_9,property_818,Non-Flooding
+amenity_11,property_818,Playground
+amenity_1,property_819,Car Parking
+amenity_7,property_819,Garden
+amenity_9,property_819,Non-Flooding
+amenity_11,property_819,Playground
+amenity_1,property_820,Car Parking
+amenity_7,property_821,Garden
+amenity_9,property_821,Non-Flooding
+amenity_4,property_821,On main road
+amenity_11,property_821,Playground
+No_amenities,property_822,No amenities
+No_amenities,property_823,No amenities
+No_amenities,property_824,No amenities
+No_amenities,property_825,No amenities
+amenity_1,property_826,Car Parking
+amenity_2,property_826,Commercial area
+amenity_9,property_826,Non-Flooding
+amenity_4,property_826,On main road
+amenity_1,property_827,Car Parking
+amenity_6,property_827,Common Area
+amenity_8,property_827,Gym/Fitness Center
+amenity_3,property_827,Lift / Elevator
+No_amenities,property_828,No amenities
+amenity_1,property_829,Car Parking
+amenity_9,property_829,Non-Flooding
+amenity_1,property_830,Car Parking
+amenity_2,property_830,Commercial area
+amenity_8,property_830,Gym/Fitness Center
+amenity_3,property_830,Lift / Elevator
+amenity_9,property_830,Non-Flooding
+amenity_5,property_830,Swimming Pool
+amenity_10,property_830,Backup Electricity / Generator
+amenity_1,property_831,Car Parking
+amenity_2,property_831,Commercial area
+amenity_9,property_831,Non-Flooding
+amenity_4,property_831,On main road
+No_amenities,property_832,No amenities
+amenity_1,property_833,Car Parking
+amenity_6,property_833,Common Area
+amenity_9,property_833,Non-Flooding
+amenity_1,property_834,Car Parking
+amenity_7,property_834,Garden
+amenity_9,property_834,Non-Flooding
+amenity_1,property_835,Car Parking
+amenity_7,property_835,Garden
+amenity_9,property_835,Non-Flooding
+amenity_1,property_836,Car Parking
+amenity_8,property_836,Gym/Fitness Center
+amenity_3,property_836,Lift / Elevator
+amenity_9,property_836,Non-Flooding
+amenity_14,property_836,Sauna
+amenity_1,property_837,Car Parking
+amenity_4,property_838,On main road
+No_amenities,property_839,No amenities
+No_amenities,property_840,No amenities
+amenity_1,property_841,Car Parking
+amenity_2,property_841,Commercial area
+amenity_9,property_841,Non-Flooding
+amenity_1,property_842,Car Parking
+amenity_2,property_842,Commercial area
+amenity_9,property_842,Non-Flooding
+amenity_1,property_843,Car Parking
+amenity_2,property_843,Commercial area
+amenity_9,property_843,Non-Flooding
+amenity_1,property_844,Car Parking
+amenity_3,property_844,Lift / Elevator
+amenity_4,property_844,On main road
+amenity_5,property_844,Swimming Pool
+amenity_1,property_845,Car Parking
+amenity_8,property_845,Gym/Fitness Center
+amenity_3,property_845,Lift / Elevator
+amenity_5,property_845,Swimming Pool
+amenity_1,property_846,Car Parking
+amenity_1,property_847,Car Parking
+amenity_9,property_847,Non-Flooding
+amenity_1,property_848,Car Parking
+amenity_9,property_848,Non-Flooding
+amenity_1,property_849,Car Parking
+amenity_9,property_849,Non-Flooding
+amenity_1,property_850,Car Parking
+amenity_2,property_850,Commercial area
+amenity_9,property_850,Non-Flooding
+amenity_1,property_851,Car Parking
+amenity_2,property_851,Commercial area
+amenity_9,property_851,Non-Flooding
+amenity_4,property_851,On main road
+amenity_2,property_852,Commercial area
+amenity_9,property_852,Non-Flooding
+amenity_1,property_853,Car Parking
+amenity_7,property_853,Garden
+amenity_9,property_853,Non-Flooding
+amenity_4,property_853,On main road
+amenity_1,property_854,Car Parking
+amenity_2,property_854,Commercial area
+amenity_9,property_854,Non-Flooding
+amenity_1,property_855,Car Parking
+amenity_4,property_855,On main road
+No_amenities,property_856,No amenities
+amenity_1,property_857,Car Parking
+amenity_2,property_857,Commercial area
+amenity_3,property_857,Lift / Elevator
+amenity_1,property_858,Car Parking
+amenity_2,property_858,Commercial area
+amenity_8,property_858,Gym/Fitness Center
+amenity_3,property_858,Lift / Elevator
+amenity_9,property_858,Non-Flooding
+amenity_5,property_858,Swimming Pool
+amenity_1,property_859,Car Parking
+amenity_9,property_859,Non-Flooding
+amenity_2,property_860,Commercial area
+amenity_9,property_860,Non-Flooding
+amenity_2,property_861,Commercial area
+amenity_9,property_861,Non-Flooding
+No_amenities,property_862,No amenities
+amenity_1,property_863,Car Parking
+amenity_6,property_863,Common Area
+amenity_7,property_863,Garden
+amenity_9,property_863,Non-Flooding
+amenity_1,property_864,Car Parking
+amenity_2,property_864,Commercial area
+amenity_8,property_864,Gym/Fitness Center
+amenity_5,property_864,Swimming Pool
+amenity_2,property_865,Commercial area
+amenity_9,property_865,Non-Flooding
+amenity_1,property_866,Car Parking
+amenity_7,property_866,Garden
+amenity_4,property_866,On main road
+amenity_1,property_867,Car Parking
+amenity_2,property_867,Commercial area
+amenity_6,property_867,Common Area
+amenity_7,property_867,Garden
+amenity_9,property_867,Non-Flooding
+No_amenities,property_868,No amenities
+No_amenities,property_869,No amenities
+No_amenities,property_870,No amenities
+No_amenities,property_871,No amenities
+amenity_1,property_872,Car Parking
+amenity_4,property_872,On main road
+amenity_1,property_873,Car Parking
+amenity_2,property_873,Commercial area
+amenity_6,property_873,Common Area
+amenity_7,property_873,Garden
+amenity_9,property_873,Non-Flooding
+amenity_5,property_873,Swimming Pool
+amenity_1,property_874,Car Parking
+amenity_2,property_874,Commercial area
+amenity_9,property_874,Non-Flooding
+amenity_4,property_874,On main road
+amenity_1,property_875,Car Parking
+amenity_9,property_875,Non-Flooding
+amenity_1,property_876,Car Parking
+amenity_2,property_876,Commercial area
+amenity_9,property_876,Non-Flooding
+amenity_1,property_877,Car Parking
+amenity_1,property_878,Car Parking
+amenity_7,property_878,Garden
+amenity_9,property_878,Non-Flooding
+amenity_1,property_879,Car Parking
+amenity_9,property_879,Non-Flooding
+amenity_1,property_880,Car Parking
+amenity_9,property_880,Non-Flooding
+amenity_1,property_881,Car Parking
+amenity_7,property_881,Garden
+amenity_9,property_881,Non-Flooding
+amenity_4,property_881,On main road
+No_amenities,property_882,No amenities
+amenity_1,property_883,Car Parking
+amenity_8,property_883,Gym/Fitness Center
+amenity_3,property_883,Lift / Elevator
+amenity_5,property_883,Swimming Pool
+amenity_10,property_883,Backup Electricity / Generator
+amenity_1,property_884,Car Parking
+amenity_9,property_884,Non-Flooding
+amenity_4,property_884,On main road
+amenity_2,property_885,Commercial area
+amenity_8,property_885,Gym/Fitness Center
+amenity_3,property_885,Lift / Elevator
+amenity_9,property_885,Non-Flooding
+amenity_5,property_885,Swimming Pool
+No_amenities,property_886,No amenities
+amenity_1,property_887,Car Parking
+amenity_2,property_887,Commercial area
+amenity_6,property_887,Common Area
+amenity_3,property_887,Lift / Elevator
+amenity_9,property_887,Non-Flooding
+amenity_4,property_887,On main road
+amenity_11,property_887,Playground
+amenity_12,property_887,Sports Facilities
+amenity_5,property_887,Swimming Pool
+amenity_1,property_888,Car Parking
+amenity_9,property_888,Non-Flooding
+amenity_1,property_889,Car Parking
+amenity_2,property_889,Commercial area
+amenity_6,property_889,Common Area
+amenity_7,property_889,Garden
+amenity_9,property_889,Non-Flooding
+amenity_4,property_889,On main road
+amenity_1,property_890,Car Parking
+amenity_2,property_890,Commercial area
+amenity_9,property_890,Non-Flooding
+amenity_1,property_891,Car Parking
+amenity_2,property_891,Commercial area
+amenity_8,property_891,Gym/Fitness Center
+amenity_3,property_891,Lift / Elevator
+amenity_9,property_891,Non-Flooding
+amenity_4,property_891,On main road
+amenity_5,property_891,Swimming Pool
+amenity_1,property_892,Car Parking
+amenity_2,property_892,Commercial area
+amenity_8,property_892,Gym/Fitness Center
+amenity_3,property_892,Lift / Elevator
+amenity_9,property_892,Non-Flooding
+amenity_11,property_892,Playground
+amenity_5,property_892,Swimming Pool
+amenity_1,property_893,Car Parking
+amenity_2,property_893,Commercial area
+amenity_9,property_893,Non-Flooding
+amenity_1,property_894,Car Parking
+amenity_2,property_894,Commercial area
+amenity_6,property_894,Common Area
+amenity_7,property_894,Garden
+amenity_9,property_894,Non-Flooding
+amenity_5,property_894,Swimming Pool
+amenity_1,property_895,Car Parking
+amenity_6,property_895,Common Area
+amenity_9,property_895,Non-Flooding
+amenity_1,property_896,Car Parking
+amenity_2,property_896,Commercial area
+amenity_6,property_896,Common Area
+amenity_7,property_896,Garden
+amenity_8,property_896,Gym/Fitness Center
+amenity_3,property_896,Lift / Elevator
+amenity_9,property_896,Non-Flooding
+amenity_5,property_896,Swimming Pool
+amenity_10,property_896,Backup Electricity / Generator
+No_amenities,property_897,No amenities
+amenity_1,property_898,Car Parking
+amenity_2,property_898,Commercial area
+amenity_9,property_898,Non-Flooding
+amenity_4,property_898,On main road
+amenity_2,property_899,Commercial area
+amenity_1,property_900,Car Parking
+amenity_2,property_900,Commercial area
+amenity_9,property_900,Non-Flooding
+amenity_1,property_901,Car Parking
+amenity_2,property_901,Commercial area
+amenity_7,property_901,Garden
+amenity_9,property_901,Non-Flooding
+amenity_5,property_901,Swimming Pool
+amenity_1,property_902,Car Parking
+amenity_2,property_902,Commercial area
+amenity_9,property_902,Non-Flooding
+amenity_1,property_903,Car Parking
+amenity_1,property_904,Car Parking
+amenity_2,property_904,Commercial area
+amenity_7,property_904,Garden
+amenity_9,property_904,Non-Flooding
+No_amenities,property_905,No amenities
+amenity_1,property_906,Car Parking
+amenity_9,property_906,Non-Flooding
+amenity_9,property_907,Non-Flooding
+amenity_1,property_908,Car Parking
+amenity_2,property_908,Commercial area
+amenity_9,property_908,Non-Flooding
+amenity_1,property_909,Car Parking
+amenity_2,property_909,Commercial area
+amenity_9,property_909,Non-Flooding
+amenity_4,property_909,On main road
+No_amenities,property_910,No amenities
+amenity_2,property_911,Commercial area
+amenity_1,property_912,Car Parking
+amenity_2,property_912,Commercial area
+amenity_3,property_912,Lift / Elevator
+amenity_9,property_912,Non-Flooding
+amenity_2,property_913,Commercial area
+amenity_9,property_913,Non-Flooding
+amenity_1,property_914,Car Parking
+amenity_2,property_914,Commercial area
+amenity_8,property_914,Gym/Fitness Center
+amenity_3,property_914,Lift / Elevator
+amenity_9,property_914,Non-Flooding
+amenity_5,property_914,Swimming Pool
+No_amenities,property_915,No amenities
+amenity_1,property_916,Car Parking
+amenity_2,property_916,Commercial area
+amenity_9,property_916,Non-Flooding
+amenity_1,property_917,Car Parking
+amenity_2,property_917,Commercial area
+amenity_9,property_917,Non-Flooding
+amenity_1,property_918,Car Parking
+amenity_2,property_918,Commercial area
+amenity_9,property_918,Non-Flooding
+amenity_2,property_919,Commercial area
+amenity_9,property_919,Non-Flooding
+amenity_4,property_919,On main road
+amenity_1,property_920,Car Parking
+amenity_2,property_920,Commercial area
+amenity_9,property_920,Non-Flooding
+amenity_9,property_921,Non-Flooding
+amenity_4,property_921,On main road
+amenity_1,property_922,Car Parking
+amenity_2,property_922,Commercial area
+amenity_9,property_922,Non-Flooding
+amenity_4,property_922,On main road
+amenity_1,property_923,Car Parking
+amenity_2,property_923,Commercial area
+amenity_9,property_923,Non-Flooding
+amenity_2,property_924,Commercial area
+amenity_9,property_924,Non-Flooding
+amenity_1,property_925,Car Parking
+amenity_2,property_925,Commercial area
+amenity_9,property_925,Non-Flooding
+No_amenities,property_926,No amenities
+No_amenities,property_927,No amenities
+No_amenities,property_928,No amenities
+amenity_1,property_929,Car Parking
+amenity_2,property_929,Commercial area
+amenity_1,property_930,Car Parking
+amenity_2,property_930,Commercial area
+amenity_6,property_930,Common Area
+amenity_7,property_930,Garden
+amenity_8,property_930,Gym/Fitness Center
+amenity_3,property_930,Lift / Elevator
+amenity_9,property_930,Non-Flooding
+amenity_11,property_930,Playground
+amenity_14,property_930,Sauna
+amenity_12,property_930,Sports Facilities
+amenity_5,property_930,Swimming Pool
+amenity_10,property_930,Backup Electricity / Generator
+amenity_1,property_931,Car Parking
+amenity_2,property_931,Commercial area
+amenity_9,property_931,Non-Flooding
+amenity_1,property_932,Car Parking
+amenity_8,property_932,Gym/Fitness Center
+amenity_3,property_932,Lift / Elevator
+amenity_14,property_932,Sauna
+amenity_12,property_932,Sports Facilities
+amenity_5,property_932,Swimming Pool
+amenity_1,property_933,Car Parking
+amenity_2,property_933,Commercial area
+amenity_9,property_933,Non-Flooding
+amenity_2,property_934,Commercial area
+amenity_9,property_934,Non-Flooding
+amenity_1,property_935,Car Parking
+amenity_6,property_936,Common Area
+amenity_3,property_936,Lift / Elevator
+amenity_9,property_936,Non-Flooding
+amenity_2,property_937,Commercial area
+amenity_9,property_937,Non-Flooding
+amenity_1,property_938,Car Parking
+amenity_2,property_938,Commercial area
+amenity_6,property_938,Common Area
+amenity_7,property_938,Garden
+amenity_9,property_938,Non-Flooding
+amenity_5,property_938,Swimming Pool
+amenity_8,property_939,Gym/Fitness Center
+amenity_9,property_939,Non-Flooding
+amenity_5,property_939,Swimming Pool
+amenity_1,property_940,Car Parking
+amenity_7,property_940,Garden
+amenity_9,property_940,Non-Flooding
+amenity_4,property_940,On main road
+amenity_11,property_940,Playground
+amenity_1,property_941,Car Parking
+amenity_9,property_941,Non-Flooding
+amenity_1,property_942,Car Parking
+amenity_9,property_942,Non-Flooding
+No_amenities,property_943,No amenities
+amenity_1,property_944,Car Parking
+amenity_2,property_944,Commercial area
+amenity_7,property_944,Garden
+amenity_8,property_944,Gym/Fitness Center
+amenity_3,property_944,Lift / Elevator
+amenity_9,property_944,Non-Flooding
+amenity_4,property_944,On main road
+amenity_5,property_944,Swimming Pool
+amenity_10,property_944,Backup Electricity / Generator
+amenity_1,property_945,Car Parking
+amenity_7,property_945,Garden
+amenity_9,property_945,Non-Flooding
+amenity_4,property_945,On main road
+amenity_11,property_945,Playground
+amenity_1,property_946,Car Parking
+amenity_7,property_946,Garden
+amenity_9,property_946,Non-Flooding
+amenity_4,property_946,On main road
+amenity_11,property_946,Playground
+amenity_1,property_947,Car Parking
+amenity_9,property_947,Non-Flooding
+amenity_5,property_947,Swimming Pool
+amenity_1,property_948,Car Parking
+amenity_7,property_948,Garden
+amenity_9,property_948,Non-Flooding
+amenity_11,property_948,Playground
+amenity_1,property_949,Car Parking
+amenity_9,property_949,Non-Flooding
+amenity_9,property_950,Non-Flooding
+amenity_4,property_950,On main road
+amenity_1,property_951,Car Parking
+amenity_7,property_951,Garden
+amenity_9,property_951,Non-Flooding
+amenity_11,property_951,Playground
+amenity_1,property_952,Car Parking
+amenity_9,property_952,Non-Flooding
+No_amenities,property_953,No amenities
+amenity_1,property_954,Car Parking
+amenity_9,property_954,Non-Flooding
+amenity_4,property_954,On main road
+amenity_1,property_955,Car Parking
+amenity_7,property_955,Garden
+amenity_8,property_955,Gym/Fitness Center
+amenity_3,property_955,Lift / Elevator
+amenity_9,property_955,Non-Flooding
+amenity_12,property_955,Sports Facilities
+amenity_5,property_955,Swimming Pool
+amenity_10,property_955,Backup Electricity / Generator
+amenity_1,property_956,Car Parking
+amenity_2,property_956,Commercial area
+amenity_6,property_956,Common Area
+amenity_8,property_956,Gym/Fitness Center
+amenity_13,property_956,Jacuzzi
+amenity_3,property_956,Lift / Elevator
+amenity_9,property_956,Non-Flooding
+amenity_11,property_956,Playground
+amenity_12,property_956,Sports Facilities
+amenity_5,property_956,Swimming Pool
+amenity_10,property_956,Backup Electricity / Generator
+amenity_1,property_957,Car Parking
+amenity_6,property_957,Common Area
+amenity_7,property_957,Garden
+amenity_9,property_957,Non-Flooding
+amenity_11,property_957,Playground
+No_amenities,property_958,No amenities
+amenity_2,property_959,Commercial area
+amenity_8,property_959,Gym/Fitness Center
+amenity_3,property_959,Lift / Elevator
+amenity_9,property_959,Non-Flooding
+amenity_11,property_959,Playground
+amenity_12,property_959,Sports Facilities
+amenity_5,property_959,Swimming Pool
+amenity_10,property_959,Backup Electricity / Generator
+No_amenities,property_960,No amenities
+No_amenities,property_961,No amenities
+amenity_1,property_962,Car Parking
+amenity_7,property_962,Garden
+amenity_9,property_962,Non-Flooding
+amenity_9,property_963,Non-Flooding
+No_amenities,property_964,No amenities
+No_amenities,property_965,No amenities
+No_amenities,property_966,No amenities
+No_amenities,property_967,No amenities
+amenity_1,property_968,Car Parking
+amenity_7,property_968,Garden
+amenity_9,property_968,Non-Flooding
+amenity_1,property_969,Car Parking
+amenity_6,property_969,Common Area
+amenity_7,property_969,Garden
+amenity_9,property_969,Non-Flooding
+amenity_11,property_969,Playground
+amenity_1,property_970,Car Parking
+amenity_2,property_970,Commercial area
+amenity_6,property_970,Common Area
+amenity_7,property_970,Garden
+amenity_9,property_970,Non-Flooding
+amenity_1,property_971,Car Parking
+amenity_6,property_971,Common Area
+amenity_7,property_971,Garden
+amenity_9,property_971,Non-Flooding
+No_amenities,property_972,No amenities
+amenity_1,property_973,Car Parking
+amenity_9,property_973,Non-Flooding
+amenity_10,property_973,Backup Electricity / Generator
